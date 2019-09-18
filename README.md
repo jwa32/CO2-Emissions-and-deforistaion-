@@ -1,0 +1,2 @@
+# CO2-Emissions-and-deforistaion-
+CO2 emissions and deforestation are two large contributors to the high increase in CO2 in the Earth's atmosphere. Recently cattle farmers have been using fires to clear large areas of land in the Amazon rain forest, this has lead to nearly 60-70% of the trees dying. The Amazon rain forest is the largest land mass that produces oxygen for the entire globe. In China the main source of energy is coal power plants, this only adds more CO2 to the atmosphere and it causes respiratory problems to the people living in China.
