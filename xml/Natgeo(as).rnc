@@ -1,0 +1,12 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = Natgeo
+Natgeo = element Natgeo {header}
+header = element header {article, type, title, author,year}
+article = element article {type}
+type = attribute type {text}
+title = attribute title {text}
+author = attribute author {text}
+year = attribute year {text}
+body = element body {text}
+
+
