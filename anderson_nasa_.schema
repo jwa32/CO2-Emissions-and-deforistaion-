@@ -1,0 +1,12 @@
+default namespace = ""
+
+start =root
+ root= element root {(company|location|date|color|equip|temp|action|measurement)+}
+  company= element company {text}
+  location= element location {text}
+  date= element date {text}
+  color= element color {text}
+  equip= element equip {text}
+  temp= element temp {text}
+  action= element action {text}
+  measurment= element measurement {text}

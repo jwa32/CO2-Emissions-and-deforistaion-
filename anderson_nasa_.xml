@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <company>NASA's</company> Ecosystem Spaceborne Thermal Radiometer Experiment on <location>Space
+        Station <company>(ECOSTRESS)</company></location>
+    <action>captured</action> imagery of fires in the <location>Amazon</location> regions of
+        <location>Brazil</location> and <location>Bolivia</location> on <date>Aug. 23, 2019.</date>
+    The <color>red</color> areas in the images - in <location>eastern Bolivia</location> and
+        <location>northern Brazil</location> - are where surface temperatures exceeded the maximum
+    measurable temperature of the instrument's <equip>sensor</equip> (approximately <temp>220
+        degrees Fahrenheit</temp>, or <temp>104 degrees Celsius</temp>), highlighting the burning
+    areas along the fire fronts. The dark, wispy areas indicate thick smoke - thick enough to
+        <action>obscure</action> much of the fire from view. The measurements <action>cover</action>
+    areas of about <measurement>77 by 77 yards</measurement>
+    <measurment>(70 by 70 meters)</measurment> each, or about the size of a <equip>football</equip>
+    field. The primary mission of <company>ECOSTRESS</company> is to measure the temperature of
+        <equip>plants</equip> from the vantage point of the <location>International Space
+        Station.</location> However, it can also <action>detect</action> other heat-related
+    phenomena like heat waves, <object>volcanoes</object> and fires. Due to the <location>space
+        station's</location> unique orbit, <company>ECOSTRESS</company>
+    <action>acquires</action> imagery of the same areas at different times of day as it
+        <action>passes</action> by overhead - instead of <action>crossing over</action> each area at
+    the same time of day like <equip>satellites</equip> in some other orbits do. This is
+    particularly important when trying to <action>acquire</action> cloud-free imagery over
+    perennially cloudy areas like the <location>Amazon.</location>
+    <company>ECOSTRESS</company>
+    <action>launched</action> to the <location>space station</location> on <date>June 29,
+        2018.</date>
+    <company>NASA's</company>
+    <location>Jet Propulsion Laboratory</location> in <location>Pasadena, California</location>,
+        <action>built</action> and manages the <company>ECOSTRESS</company> mission for the
+        <company>Earth Science Division</company> in the Science Mission Directorate at
+        <location>NASA Headquarters</location> in <location>Washington</location>.
+        <company>ECOSTRESS</company> is an Earth Venture Instrument mission; the program is managed
+    by <company>NASA's Earth System Science Pathfinder</company> program at <location>NASA's Langley
+        Research Center</location> in <location>Hampton, Virginia.</location>
+</root>
