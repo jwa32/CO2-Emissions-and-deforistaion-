@@ -1,0 +1,10 @@
+default namespace = ""
+
+start =root
+ root= element root {(date|quantity|object|action|orginization|location)+}
+  date= element date {text}
+  quantity= element quantity {text}
+  object= element object {text}
+  action= element action {text}
+  orginaization= element orginaztion {text}
+  location= element location {text}
