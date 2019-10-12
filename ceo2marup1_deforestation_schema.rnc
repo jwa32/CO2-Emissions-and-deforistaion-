@@ -1,0 +1,11 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start= article 
+article = element article {title,intro,paragraphs }
+title = element title {author,date,text}
+author = element author {text}
+date = element date {text}
+paragraphs= element paragraphs {mixed(intr | p |title| conclusion)*}
+intro = element intro {text}
+p = element {text}
+conclusion = element conclusion{text}
