@@ -1,21 +1,24 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = BBC
-BBC = element BBC {header}
-header = element header {article}
+BBC = element BBC {header, body}
+header = element header {article, title, author, year}
 article = element article {type}
 type = attribute type {text}
 title = element title {text}
 author = element author {text}
 year = element year {text}
-body = element body {introduction, how , meaning, matters, policy, next, government}
-introduction = attribute introduction {text}
-how = attribute how {text}
-meaning = attribute meaning {text}
-matters = attribute matters {text}
-policy = attribute policy {text}
-next = attribute next {text}
-government = attribute government {text}
-
+body = element body {mixed{(introduction | how | meaning | matters | policy | next | government)*}}
+introduction = element introduction {text}
+how = element how {text}
+meaning = element meaning {text}
+matters = element matters {text}
+policy = element policy {text}
+next = element next {text}
+government = element government {text}
+# 2019-10-26 ebb: This schema is now working to validate one BBC article, 
+# but the markup is not very informative because it's wrapping large "blobs" of text.
+# This XML should be more refined to help you target issues about solutions and causes, and track details in your collection of articles, so we need to revisit this.
+# Maybe it's a starting point that we can build on. 
 
 
 
