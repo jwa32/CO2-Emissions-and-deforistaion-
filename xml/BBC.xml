@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="BBC(As).rnc" type="application/relax-ng-compact-syntax"?>
-<BBC>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
     <header>
      <article type="Science and enviroment"></article>
-    <title>Football pitch' of Amazon forest lost every minute</title>
+    <title>'Football pitch' of Amazon forest lost every minute</title>
     <author>David Shukman</author>
-     <year>2009</year>
+        <publication ref="BBC">BBC News</publication>
+     <date when="2019-07-02">July 2, 2019</date>
     </header>   
     <body>
         <introduction>The rate of losses has accelerated as Brazil's new right-wing president favours development over conservation.
@@ -78,4 +79,4 @@
             "The Amazon is Brazilian, the heritage of Brazil and should be dealt with by Brazil for the benefit of Brazil," he said.</government>
     </body>
    
-</BBC>
+</xml>
