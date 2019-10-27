@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="ceo2marup1_deforestation_schema.rnc" type="application/relax-ng-compact-syntax"?>
-<article> 
-<title> 
-CLIMATE 101: DEFORESTATION
-</title>
+<?xml-model href="ecoSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml> 
+<header><title>Climate 101: Deforestation</title>
+    <author>Christina Nunez</author>
+    <publication ref="NatGeo">National Geographic</publication>
+    <date when="2019-02-07">PUBLISHED FEBRUARY 7, 2019</date>
+    <source sourceCat="summary" link="https://www.nationalgeographic.com/environment/global-warming/deforestation/"/>
+</header>
 
-<intro> 
-Forests cover about 30 percent of the planet's land mass, but humans are cutting them down, clearing
-these essential habitats on a massive scale. What is deforestation? Find out the causes, effects, and solutions.
-
-
-    <author> BY CHRISTINA NUNEZ </author>
-    <date > PUBLISHED FEBRUARY 7, 2019</date>
-</intro>
-<paragraphs> 
+<abstract>Forests cover about 30 percent of the planet's land mass, but humans are cutting them down, clearing
+these essential habitats on a massive scale. What is deforestation? Find out the causes, effects, and solutions. 
+</abstract>
+<body> 
 
 <intro> 
 As the world seeks to slow the pace of climate change, preserve wildlife, and support billions of people, trees 
@@ -71,5 +69,5 @@ when you can. Nonprofit groups such as the Forest Stewardship Council and the Ra
 they consider sustainable, while the World Wildlife Fund has a palm oil scorecard for consumer brands.
         </conclution>
     </p>
-</paragraphs>
-</article>
+</body>
+</xml>

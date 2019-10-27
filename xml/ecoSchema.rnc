@@ -1,0 +1,36 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = xml
+xml = element xml {header, abstract?, body}
+abstract = element abstract {text}
+header = element header {title, author, publication, date, source}
+title = element title {text} # for the title of the article
+publication = element publication {ref, text} 
+ref = attribute ref {"NatGeo" | "BBC" | text} # ebb: let's make a list of values representing the different publications you're coding in the project.
+author = element author {text}
+date = element date {when, text}
+when = attribute when {xsd:date}
+source = element source {link, sourceCat, empty}
+sourceCat = attribute cat {"summary" | "interview" | "news"} # ebb: let's flesh this out with a short list of values
+link = attribute link {xsd:anyURI}
+body = element body {p+}
+p = element p {n?, mixed{(gov | policy | problem | solution)*}}
+n = attribute n {xsd:integer}
+# body = element body {mixed{(introduction | how | meaning | matters | policy | next | government)*}}
+policy = element policy {polType, text}
+polType = attribute polType {text}
+gov = element gov {govRef, govLevel, text} # ebb: The element gov should wrap around any reference to a government at any level. We'll use attributes to distinguish different levels of government. 
+govRef = attribute govRef {text} # ebb: let's come up with a list of identifiers for government names you're reading about.
+govLevel = attribute govLevel {"national" | "state" | "local"}
+problem = element problem {probType, mixed{(extent | action)*}}
+probType = attribute probType {text} # ebb: let's come up with a list of specific problem types to reference in short strings
+extent = element extent {quantity, unit} # the element extent is meant to wrap around specific numerical measurements of a problem, solution, or action, in time, space, or scope.
+quantity = attribute quantity {xsd:decimal}
+unit = attribute unit {text} # ebb: let's come up with a list of units you are encountering, and find a standard way to refer to them in this attribute.
+solution = element solution {solType, mixed{(extent | action)*}}
+solType = attribute solType {text} #ebb: let's come up with a list of specific solution types to reference in short strings
+action = element action {mixed{extent*}} # wraps around text that refers to actions being taken. Can appear zero or more times inside <problem>, or <solution> elements. actions may have an extent inside them if they are measured in some way.
+
+# 2019-10-26 ebb: I'm tinkering with this as a start on a unified schema that might work for all the articles you're encoding for the Eco project. 
+
+
+
