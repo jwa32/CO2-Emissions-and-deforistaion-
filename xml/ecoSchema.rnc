@@ -14,7 +14,7 @@ source = element source { cat, link, empty }
 cat = attribute cat { "summary" | "interview" | "news" }
 # ebb: let's flesh this out with a short list of values
 link = attribute link { xsd:anyURI }
-body = element body { (sectionHead | p)+ }
+body = element body { (sectionHead | p | place | org | gov | policy | problem | solution)* }
 sectionHead = element sectionHead { text }
 p =
     element p {
@@ -47,7 +47,8 @@ probType =
         "climateChange" | "extinction" | "humanLifeSupport" | "deforest" | "carbonGas"
     }
 # ebb: let's come up with a list of specific problem types to reference in short strings
-cause = element cause { text }
+cause = element cause { causeType?, mixed{(extent | action | place | org | gov | product | resource | plant | animal)*} }
+causeType= attribute causeType {"policy" | text}
 product = element product { text }
 animal = element animal { text }
 plant = element plant { text }
