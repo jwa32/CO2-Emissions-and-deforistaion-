@@ -47,8 +47,12 @@ probType =
         "climateChange" | "extinction" | "humanLifeSupport" | "deforest" | "carbonGas"
     }
 # ebb: let's come up with a list of specific problem types to reference in short strings
-cause = element cause { causeType?, mixed{(extent | action | place | org | gov | product | resource | plant | animal)*} }
-causeType= attribute causeType {"policy" | text}
+cause =
+    element cause {
+        causeType?,
+        mixed { (extent | action | place | org | gov | product | resource | plant | animal)* }
+    }
+causeType = attribute causeType { "policy" | text }
 product = element product { text }
 animal = element animal { text }
 plant = element plant { text }
