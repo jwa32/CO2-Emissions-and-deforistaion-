@@ -14,27 +14,27 @@ these essential habitats on a massive scale. What is deforestation? Find out the
 </abstract>
 <body> 
 
-<p>As the world seeks to slow the pace of climate change, preserve wildlife, and support billions of people, trees 
-inevitably hold a major part of the answer. Yet the mass destruction of trees—deforestation—continues, sacrificing the long-term benefits of standing trees for short-term gain.
-Forests still cover about 30 percent of the world’s land area, but they are disappearing at an alarming rate. Between 1990 and 2016, the world lost 502,000 square miles (1.3 million square kilometers) of forest, according to the World Bank—an area larger than South Africa. Since humans started cutting down forests, 46 percent of trees have been felled, according to a 2015 study
-in the journal Nature. About 17 percent of the Amazonian rainforest has been destroyed over the past 50 years,and 
-losses recently have been on the rise. We need trees for a variety of reasons, not least of which is that they absorb 
+<p>As the world seeks to slow the pace of <problem probType="climateChange">climate change</problem>, <problem probType="extinction">preserve wildlife</problem>, and <problem probType="humanLifeSupport">support billions of people</problem>, <solution solType="forest">trees 
+inevitably hold a major part of the answer</solution>. <problem probType="deforest">Yet the mass destruction of trees—deforestation—continues, sacrificing the long-term benefits of standing trees for short-term gain.</problem>
+Forests still cover about 30 percent of the world’s land area, but they are disappearing at an alarming rate. <problem probType="deforest"><extent quantity="26" unit="years" what="time">Between 1990 and 2016</extent>, <extent quantity="1.3" unit="GM2" what="worldForest"><!--A square gigameter is a million square km) -->the world lost 502,000 square miles (1.3 million square kilometers) of forest, according to the World Bank—an area larger than South Africa</extent>.</problem> <problem probType="deforest"><extent quantity="46" unit="percent" what="trees">Since humans started cutting down forests, 46 percent of trees have been felled</extent>, according to a 2015 study
+    in the journal Nature.</problem> <problem probType="deforest">About <extent quantity="17" unit="percent" what="AmazonForest">17 percent of the Amazonian rainforest has been destroyed</extent> <extent quantity="50" unit="years" what="time">over the past 50 years</extent>, and 
+losses recently have been on the rise</problem>. We need trees for a variety of reasons, not least of which is that they absorb 
 not only the carbon dioxide that we exhale, but also the heat-trapping greenhouse gases that human activities emit.
 As those gases enter the atmosphere, global warming increases, a trend scientists now prefer to call climate change. 
-Tropical tree cover alone can provide 23 percent of the climate mitigation needed over the next decade to meet goals set in the Paris 
-Agreement in 2015, according to one estimate.
+Tropical tree cover alone can provide 23 percent of the climate mitigation needed over the next decade to meet goals set in the <policy polType="treaty">Paris 
+Agreement in 2015</policy>, according to one estimate.
 </p>
 
  
     <sectionHead>Causes of deforestation</sectionHead>
 
-    <p>Farming, grazing of livestock, mining, and drilling combined account for more than half of all deforestation. Forestry practices, wildfires and, in small part, urbanization account for the rest. In Malaysia and Indonesia, forests are cut down to make way for producing palm oil, which can be found in everything from shampoo to saltines. 
-In the Amazon, cattle ranching and farms—particularly soy plantations—are key culprits.
-Logging operations, which provide the world’s wood and paper products, also fell countless trees each year.
-Loggers, some of them acting illegally, also build roads to access more and more remote forests—which leads to
-further deforestation. Forests are also cut as a result of growing urban sprawl as land is developed for homes.
-Not all deforestation is intentional. Some is caused by a combination of human and natural factors like wildfires
-and overgrazing, which may prevent the growth of young trees.</p>
+    <p><problem probType="deforest"><cause>Farming</cause>, <cause>grazing of livestock</cause>, <cause>mining</cause>, and <cause>drilling</cause> combined account for more than half of all deforestation. <cause>Forestry practices</cause>, <cause>wildfires</cause> and, in small part, <cause>urbanization</cause> account for the rest.</problem> <problem probType="deforest">In <place>Malaysia</place> and <place>Indonesia</place>, forests are cut down to make way for producing <product>palm oil</product>, which can be found in everything from <product>shampoo</product> to <product>saltines</product>.</problem>
+<problem probType="deforest">In the <place>Amazon</place>, <cause>cattle ranching</cause> and <cause>farms—particularly soy plantations</cause>—are key culprits.
+<cause>Logging</cause> operations, which provide the world’s <product>wood</product> and <product>paper</product> products, also fell countless trees each year.
+<cause>Loggers, some of them acting illegally, also build roads to access more and more remote forests—which leads to</cause>
+further deforestation.</problem> <problem probType="deforest">Forests are also cut as a result of growing <cause>urban sprawl</cause> as land is developed for <product>homes</product>.</problem>
+<problem probType="deforest">Not all deforestation is intentional. Some is caused by a combination of human and natural factors like <cause>wildfires</cause>
+and <cause>overgrazing</cause>, which may prevent the growth of young trees.</problem></p>
 
  
     <sectionHead>Why it matters and what can be done</sectionHead>
