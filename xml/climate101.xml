@@ -14,8 +14,8 @@ these essential habitats on a massive scale. What is deforestation? Find out the
 </abstract>
 <body> 
 
-<p>As the world seeks to slow the pace of <problem probType="climateChange">climate change</problem>, <problem probType="extinction">preserve wildlife</problem>, and <problem probType="humanLifeSupport">support billions of people</problem>, <solution solType="forest">trees 
-inevitably hold a major part of the answer</solution>. <problem probType="deforest">Yet the mass destruction of trees—deforestation—continues, sacrificing the long-term benefits of standing trees for short-term gain.</problem>
+<p>As the world seeks to slow the pace of <problem probType="climateChange">climate change</problem>, <problem probType="extinction">preserve wildlife</problem>, and <problem probType="humanLifeSupport">support billions of people</problem>, rees 
+inevitably hold a major part of the answer. <problem probType="deforest">Yet the mass destruction of trees—deforestation—continues, sacrificing the long-term benefits of standing trees for short-term gain.</problem>
 Forests still cover about 30 percent of the world’s land area, but they are disappearing at an alarming rate. <problem probType="deforest"><extent quantity="26" unit="years" what="time">Between 1990 and 2016</extent>, <extent quantity="1.3" unit="GM2" what="worldForest"><!--A square gigameter is a million square km) -->the world lost 502,000 square miles (1.3 million square kilometers) of forest, according to the World Bank—an area larger than South Africa</extent>.</problem> <problem probType="deforest"><extent quantity="46" unit="percent" what="trees">Since humans started cutting down forests, 46 percent of trees have been felled</extent>, according to a 2015 study
     in the journal Nature.</problem> <problem probType="deforest">About <extent quantity="17" unit="percent" what="AmazonForest">17 percent of the Amazonian rainforest has been destroyed</extent> <extent quantity="50" unit="years" what="time">over the past 50 years</extent>, and 
 losses recently have been on the rise</problem>. We need trees for a variety of reasons, not least of which is that they absorb 
@@ -38,31 +38,29 @@ and <cause>overgrazing</cause>, which may prevent the growth of young trees.</pr
 
  
     <sectionHead>Why it matters and what can be done</sectionHead>
-<p>Deforestation affects the people and animals where trees are cut, as well as the wider world. Some 250 million 
-people living in forest and savannah areas depend on them for subsistence and income—many of them among the
-world’s rural poor. Eighty percent of Earth’s land animals and plants live in forests, and deforestation threatens 
-species including the orangutan, Sumatran tiger, and many species of birds. Removing trees deprives the forest
+<p>Deforestation affects the people and animals where trees are cut, as well as the wider world. <problem probType="humanLifeSupport">Some <extent quantity="250" unit="million" what="people">250 million 
+people</extent> living in forest and savannah areas depend on them for subsistence and income—many of them among the
+world’s rural poor.</problem> <problem probType="extinction">Eighty percent of Earth’s land animals and plants live in forests, and deforestation threatens 
+species including the <animal>orangutan</animal>, <animal>Sumatran tiger</animal>, and <animal>many species of birds</animal>. Removing trees deprives the forest
 of portions of its canopy, which blocks the sun’s rays during the day and retains heat at night. That disruption 
-leads to more extreme temperature swings that can be harmful to plants and animals.
-Yet the effects of deforestation reach much farther. The South American rainforest, for example, influences 
-regional and perhaps even global water cycles, and it's key to the water supply in Brazilian cities and
-neighboring countries. The Amazon actually helps furnish water to some of the soy farmers and beef ranchers 
-who are clearing the forest. The loss of clean water and biodiversity from all forests could have many other
-effects we can’t foresee, touching even your morning cup of coffee.</p>
+leads to more extreme temperature swings that can be harmful to plants and animals</problem>.</p>
 
-    
-    <p>In terms of climate change, cutting trees both adds carbon dioxide to the air and removes the ability to absorb
-existing carbon dioxide. If tropical deforestation were a country, according to the World Resources Institute, 
-it would rank third in carbon dioxide-equivalent emissions, behind China and the U.S.
+<p>Yet the effects of deforestation reach much farther. <problem probType="humanLifeSupport">The <place placeRef="AmazonForest">South American rainforest</place>, for example, influences 
+regional and perhaps even global water cycles, and it's key to the <resource>water supply</resource> in <place>Brazilian cities</place> and
+neighboring countries.</problem> <problem probType="extinction"><place placeRef="AmazonForest">The Amazon</place> actually helps furnish water to some of the soy farmers and beef ranchers 
+who are clearing the forest. The loss of clean water and biodiversity from all forests could have many other
+effects we can’t foresee, touching even your morning cup of <product>coffee</product>.</problem></p>
+
+    <p><problem probType="carbonGas">In terms of climate change, cutting trees both adds carbon dioxide to the air and removes the ability to absorb
+existing carbon dioxide. <cause>If tropical deforestation were a country, according to the World Resources Institute, 
+it would rank third in carbon dioxide-equivalent emissions, behind China and the U.S.</cause></problem>
 The numbers are grim, but many conservationists see reasons for hope. A movement is under way to preserve existing
-forest ecosystems
-and restore lost tree cover. Organizations and activists are working to fight illegal mining and logging—National 
-Geographic Explorer Topher White, for example, has come up with a way to use recycled cell phones to monitor for 
-chainsaws. In Tanzania, the residents of Kokota have planted more than 2 million trees on their small island over a
-decade, aiming to repair previous damage. And in Brazil, conservationists are rallying in the face of ominous
-signals that the government may roll back forest protections.
-For consumers, it makes sense to examine the products and meats you buy, looking for sustainably produced sources 
-when you can. Nonprofit groups such as the Forest Stewardship Council and the Rainforest Alliance certify products
-they consider sustainable, while the World Wildlife Fund has a palm oil scorecard for consumer brands.</p>
+forest ecosystems and restore lost tree cover. <solution solType="recycle">Organizations and activists are working to fight illegal mining and logging—National 
+Geographic Explorer Topher White, for example, has come up with a way to use <product>recycled cell phones</product> to monitor for 
+<product>chainsaws</product>.</solution> <solution solType="plantTrees">In <gov govLevel="national">Tanzania</gov>, the <gov govLevel="local">residents of Kokota</gov> have planted <extent quantity="2" unit="million" what="trees">more than 2 million trees</extent> on their small island over a
+decade, aiming to repair previous damage.</solution> <solution solType="politics">And in <gov govLevel="national" govRef="Brazil">Brazil</gov>, conservationists are rallying in the face of ominous
+signals that the government may roll back forest protections.</solution>
+<solution solType="consumer">For consumers, it makes sense to examine the products and meats you buy, looking for sustainably produced sources 
+when you can. Nonprofit groups such as the <org>Forest Stewardship Council</org> and the <org>Rainforest Alliance</org> certify products they consider sustainable, while the <org>World Wildlife Fund</org> has a <product>palm oil</product> scorecard for consumer brands.</solution></p>
 </body>
 </xml>
