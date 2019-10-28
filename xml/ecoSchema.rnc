@@ -5,7 +5,7 @@ header = element header { title, author, publication, date, source }
 title = element title { text }
 # for the title of the article
 publication = element publication { ref, text }
-ref = attribute ref { "NatGeo" | "BBC" | text }
+ref = attribute ref { "NatGeo" | "BBC" | "NPR" | text }
 # ebb: let's make a list of values representing the different publications you're coding in the project.
 author = element author { text }
 date = element date { when, text }
