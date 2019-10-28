@@ -26,10 +26,11 @@ n = attribute n { xsd:integer }
 policy = element policy { polType, text }
 polType = attribute polType { "treaty" | text }
 place = element place { placeRef?, text }
-placeRef = attribute placeRef { text }
+placeRef = attribute placeRef {"Brazil" | "Tanz" | "USA" | "AmazonForest"}
 # ebb: line up some distinct identifiers for places to use instead of text here.
 org = element org { orgRef?, text }
-orgRef = attribute orgRef { text }
+orgRef = attribute orgRef { "UN" | text }
+# org is meant for organizations that are not governments. 
 gov = element gov { govRef?, govLevel, text }
 # ebb: The element gov should wrap around any reference to a government at any level. We'll use attributes to distinguish different levels of government. 
 govRef = attribute govRef { text }
