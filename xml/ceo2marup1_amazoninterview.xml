@@ -2,14 +2,24 @@
 
 <interview> 
 <title>How The Fires In The Amazon Rainforest Will Impact The Global Ecosystem
-
+<!-- 2019-10-25 ebb: This code has a lot of attribute names without values! The XML is not well formed, and you won't be able to parse it with XPath.
+        
+        It's also not clear how you're using markup to support the project.
+        You need to establish a super simple system for coding attribute names and values to pull together with a single consistent schema.
+        I started filling this out a little bit here, but didn't finish.
+    You want the team to be coding the same kinds of things the same way. So if it matters to track the radio stations, make sure everyone codes the 
+     radiostations with a consistent set of attribute names and values: @radiostation="NPR"  @radiostation="WXKY"
+     That's the point of a project schema in Relax NG!
+     What are the most important elements and attributes to use to collect information from these articles that is relevant for your project?
+    
+    -->
 </title>
 
     <date released = "August 27, 2019" > August 27, 2019 5:18 PM ET </date>
 
 <intro> 
-Heard on <intro radiostation> All Things Considered </introradiostation> 
-    NPR's <intro host> Audie Cornish  </intro> speaks with <intro interviewee>  Dan Nepstad </intro>, president and founder of the Earth 
+Heard on <intro radiostation="NPR"> All Things Considered </intro> 
+    NPR's <intro host="#Cornish"> Audie Cornish  </intro> speaks with <intro interviewee>  Dan Nepstad </intro>, president and founder of the Earth 
 Innovation Institute, about the immediate and longer-term impact of fires in the Amazon. 
 </intro>
 
@@ -37,7 +47,7 @@ NEPSTAD: <Problem threat="answer">  So what was deep, dense shade that kept the 
     It kills more trees, and pretty soon, grasses and shrubs start to move into what was a pristine forest, and that's what I call this scrub vegetation. </prediction>  So that - eventually, you really can't recognize that that's a forest that
 was - never saw a chainsaw, but it's completely altered. That, for me, is the most worrisome long-term scenario for the Amazon.
 
-CORNISH: What, then, is the solution? What steps can the <country south="America">  Brazilian </country>  government take to protect the Amazon?
+CORNISH: What, then, is the solution? What steps can the <country which="Brazil">  Brazilian </country>  government take to protect the Amazon?
 
 NEPSTAD: You know, I think there's a huge opportunity to solve this,  and not just with dumping water or putting out fires. But to really come up with a systemic strategy that is long-term, we really need to shift from fire-prone systems, 
 like extensive cattle, to more intensive forms that are tree-based so that the landholder will be more reluctant to use fire to manage their land and they'll invest more in fire prevention.

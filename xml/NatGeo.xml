@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="Natgeo(as).rnc" type="application/relax-ng-compact-syntax"?>
-<NatGeo>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
     <header>
         <article type="science and enviroment"></article>
-        <title>How Amazon forest loss may affect waterâ€”and climateâ€”far away</title>
+        <title>How Amazon forest loss may affect water nd climate far away</title>
         <author>Craig Welch</author>
-        <year>2019</year>
+        <publication ref="NatGeo">National Geographic</publication>
+        <date when="2019-08-27">August 27, 2019</date>
     </header>
-    <body>he president of Brazil has been pursuing his big plans for the Amazon rainforest, even as parts of it burn in massive wildfires.
+    <body>The president of Brazil has been pursuing his big plans for the Amazon rainforest, even as parts of it burn in massive wildfires.
         
         He has been working to carve more mines and pave new roads. He has been pushing for fewer penalties for cutting down trees, and he has promised to halt growth of a network of indigenous forest reserves.
         
@@ -99,5 +100,5 @@
         
         At the very least, says Esquivel-Muelbert, Brazil should avoid clearing more. Asked what message she would send to Brazil's president, she said: "Please, don't make things worse."
     </body>
-</NatGeo>
+</xml>
 

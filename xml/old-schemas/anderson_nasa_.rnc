@@ -9,4 +9,4 @@ start =root
   equip= element equip {text}
   temp= element temp {text}
   action= element action {text}
-  measurment= element measurement {text}
+  measurement= element measurement {text}

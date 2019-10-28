@@ -1,11 +1,9 @@
-default namespace = ""
-
 start =root
- root= element root {(date|quantity|object|action|orginization|location|group)+}
+ root= element root {(date|quantity|object|action|org|location|group)+}
   date= element date {text}
   quantity= element quantity {text}
   object= element object {text}
   action= element action {text}
-  orginaization= element orginaztion {text}
+  org = element org {text} # for coding organizations
   location= element location {text}
   group=element group {text}
