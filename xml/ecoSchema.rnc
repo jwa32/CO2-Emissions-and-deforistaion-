@@ -14,7 +14,7 @@ source = element source { cat, link, empty }
 cat = attribute cat { "summary" | "interview" | "news" }
 # ebb: let's flesh this out with a short list of values
 link = attribute link { xsd:anyURI }
-body = element body { (sectionHead | p)* }
+body = element body { (sectionHead | p)+ }
 sectionHead = element sectionHead { text }
 p =
     element p {

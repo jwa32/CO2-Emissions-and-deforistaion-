@@ -1,31 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?xml-model href="ceo2marup1_amazon_todaysinmpact_schema.rnc" type="application/relax-ng-compact-syntax"?>
-<article>
-<title> 
-    Ancient farmers burned the Amazon, but today's fires are very different
-</title>
-
-
- <author>  BY KATE EVANS </author>
-
-<date> 
-    PUBLISHED SEPTEMBER 5, 2019
+<header> 
+<title>  Ancient farmers burned the Amazon, but today's fires are very different </title>
+<author>  BY KATE EVANS </author>
+<date when= "PUBLISHED SEPTEMBER 5, 2019"> PUBLISHED SEPTEMBER 5, 2019
 </date>
+</header>
 
-<paragraphs>  
-<intro> 
+<abstract> 
 Parts of the Amazon are more prone to fire today because farmers thousands of years ago regularly set
 the undercarriage alight.
-</intro>
+</abstract>
 
 
-    
-<p type="intro"> 
-Across the burning Amazon, smoke is rising and fine particles of charcoal are falling softly to the ground.
-At last count, more than 93,000 fires were alight in the Brazilian Amazon, up more than 60 percent from the
-same time last year, and the highest number since 2010. According to NASA, this year’s fires are more intensethan in previous years, too.
-But Brazil’s National Institute of Space Research (INPE) has only been keeping fire records since 1998, and
+<p> 
+    Across the burning Amazon, <problem probType=""> smoke is rising and fine particles of charcoal are falling softly to the ground.
+    At last count, more than <extent quantity="93,000">  93,000 fires </extent>were alight in the Brazilian Amazon, up more than 60 percent from the
+        same time last year, and the highest number since 2010.</problem> According to NASA, this year’s fires are more intensethan in previous years, too.
+But Brazil’s National Institute of Space Research (INPE) has onl1y been keeping fire records since 1998, and
 two decades isn’t long in the life of a forest where trees live for centuries and humans have been setting 
 fires for millennia.Paleoecology—the study of ancient environments—offers unique insights into how the first
 Amazonian peoples manipulated fire in the landscape, the effects of those fires on the forest’s ecology over 
@@ -36,7 +29,7 @@ making those areas more fire prone today. But unlike many of the current fires, 
 </p>
 
  
-<p number="1"> 
+<p> 
 
     <title> A dirty job </title>
 
@@ -100,7 +93,7 @@ Maezumi’s sediment cores from Lake Caranã show the last few decades have laid
 That would mean there’s nothing in the charcoal archives that can tell us what happens next, says McMichael.
 “The fires that we see in the paleo record are temporally less frequent, seem to be spatially less extensive across the landscape, and didn’t occur everywhere. So really, we don’t know what happens if you introduce fire into a lot of those other areas,” she says.
 </p>
-</paragraphs>  
+  
     </article>
 
 

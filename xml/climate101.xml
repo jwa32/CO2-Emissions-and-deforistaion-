@@ -2,7 +2,7 @@
 
 <?xml-model href="ecoSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml> 
-<header><title>Climate 101: Deforestation</title>
+<header> <title>Climate 101: Deforestation</title>
     <author>Christina Nunez</author>
     <publication ref="NatGeo">National Geographic</publication>
     <date when="2019-02-07">published February 7, 2019</date>
