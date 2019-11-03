@@ -1,75 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="ecoSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-High stakes for the planet as carbon emissions rise again
-To avoid climate catastrophe, humankind must stay within a “carbon budget.” But emissions are still rising, a new report grimly concludes.
-
-BY ALEJANDRA BORUNDA
-GRAPHICS BY KENNEDY ELLIOTT
-PUBLISHED DECEMBER 5, 2018
-
-TODAY AT THE annual United Nations climate conference in Poland, scientists announced some unwelcome news:
+   
+   <header> 
+       <title>High Stakes: Carbon Emissions Rise Again </title>
+       <author>BY ALEJANDRA BORUNDA  </author>
+       <publication ref="NatGeo">National Geographic</publication> 
+       <date when="2018-12-05  "> PUBLISHED DECEMBER 5, 2018 </date>
+       <source cat="summary" link="https://www.nationalgeographic.com/environment/2018/12/climate-geoengineering-series-intro/"/>
+   </header>
+ 
+    <abstract> 
+         To avoid climate catastrophe, humankind must stay within a “carbon budget.” But emissions are still rising, a new report grimly concludes.
+        TODAY AT THE annual  United Nations climate conference in Poland, scientists announced some unwelcome news:
 Fossil fuel emissions rose sharply again this year, and total emissions in 2018 will reach a record 41.5 billion 
 metric tons of carbon dioxide.
-
-
+    </abstract>   
+    
+   <body> 
+       <sectionHead> intro </sectionHead>
+       <p n="1"> 
 Only a few years ago, it looked as if global emissions had plateaued and had perhaps even peaked, and many hoped that the world
-had started down the long, hard journey toward weaning itself off carbon-based energy. Over the past decade, renewable energy use 
+had started down the long, hard journey toward weaning itself off carbon-based energy. <problem probType="carbonGas">Over the past decade, renewable energy use 
 did indeed expand dramatically—but so did the burning of oil, gas, and even coal. That growth outstripped any carbon-neutralizing
-gains from renewables.
-
+gains from renewables.</problem>
 There's a limit­—a budget, essentially—to how much carbon dioxide we can release and still avoid a level of climate chaos that 
 would fundamentally transform modern life. And we're increasingly at risk of blowing right past it.
-
-"We are at a pivotal point in the history of human civilization on our planet," says Katharine Hayhoe, a climate scientist at Texas
-Tech University and one of the authors of the U.S. government's recent National Climate Assessment.
-
+           <problem probType="extinction">"We are at a pivotal point in the history of human civilization on our planet,"</problem> says Katharine Hayhoe, a climate scientist at Texas
+           Tech University and one of the authors of the <gov govLevel="national">U.S. government's recent National Climate Assessment. </gov>
 As international leaders gather at the COP24 meeting this week to once again push for a climate-friendlier future, they are faced with
 the reality that the world is still moving in the wrong direction. And the need for change grows more urgent by the day.
 To get where we need to go, "we need all hands on deck," Hayhoe says.
 Or, as one German researcher put it, we need "love, rage, and imagination."
-
-Unmistakable signs
+       </p>
+       
+       <sectionHead>Unmistakable signs </sectionHead>
+<p n="2"> 
 Just in the last few months, scientists have unveiled a slew of new reports that lay out how significantly climate change has altered
 the globe—and how much worse it can get.
-"We know what's coming down the pike,” says Kim Cobb, a climate scientist at the Georgia Institute of Technology, “because part of it isalready here.”
+"We know what's coming down the pike,” says Kim Cobb, a climate scientist at <org>the Georgia Institute of Technology</org>, “because part of it isalready here.”
 Hurricanes such as Maria and Harvey were stronger and more damaging, and intensified more swiftly thanks to soaring temperatures. Rising oceans now lap at the foot of Texas’s
 coastal oil refineries and New York City’s water treatment facilities.
-Ocean heat waves are wiping out coral reefs and fueling toxic, deadly algal blooms. Heat waves on land last longer than they used to, sparking drought and feeding wildfires like the savage blazes
-that killed at least 85 people in California in November.
-The problem can seem intractable and confusing. But out of the deluge of data, a simple truth emerges: To keep warming from wreaking too much
+ Ocean heat waves are wiping out coral reefs and fueling toxic, deadly algal blooms. <problem probType="nature" > Heat waves on land last longer than they used to,  sparking drought and feeding wildfires like the savage blazes
+     that killed at least 85 people in California in November.</problem>
+The problem can seem intractable and confusing. But out of the deluge of data, a simple truth emerges:<solution solType="prevention"> To keep warming from wreaking too much
 havoc on the planet, we must put hard limits on how much more carbon dioxide collects in the atmosphere. And just cutting carbon out of our 
 daily lives and economy probably won’t be enough: To keep climate change in check,
-we will also have to suck some of that carbon back out of the atmosphere.
-
-The budget game
-
+we will also have to suck some of that carbon back out of the atmosphere.</solution>
+</p>
+      
+       <sectionHead>The budget game </sectionHead>
+<p n="3">
 At heart, it's a simple budget exercise.
+<problem probType="carbonGas">
 Scientists know roughly how much each belch of CO2 from a truck, coal plant, or decomposing tree warms the planet. T
 hey know how packed full of greenhouse gases the atmosphere is already. By setting a desired temperature “cap,” they
 can figure out how much more we can release. That is our carbon budget.
 Coal-fired power plants are still emitting vast quantities of carbon dioxide each year.
+</problem>
 
-The size of the budget depends on the target. In 2015, signatories to the Paris Accord agreed to limit warming to 2 degrees
+The size of the budget depends on the target. In 2015, signatories to the <place> Paris </place> Accord agreed to limit warming to 2 degrees
 Celsius (3.6 degrees Fahrenheit) by 2100. But many scientists maintained even then that holding warming to 1.5 degrees C (2.7 degrees F) 
 would be far safer.
-So to limit temperature to 1.5 degrees, the total amount of carbon dioxide left to emit—by everyone, ever, around the world—is 580 billion metric tons. For scale, that's as if you covered California, Nevada, and Arizona in a blanket of coal as tall as a person. That’s all we’ve got left to burn.
+<problem probType="budget">to limit temperature to 1.5 degrees, the total amount of carbon dioxide left to emit—by everyone, ever, around the world—is 580 billion metric tons. For scale, 
+    's as if you covered <place>California</place>, <place>Nevada</place>, and <place>Arizona</place> in a blanket of coal as tall as a person. That’s all we’ve got left to burn.
 And if we barrel ahead at the rate we’re going now, we'd deplete that carbon budget in less than 15 year
-
-The love and rage solution
-To avoid that fate, an October report by the Intergovernmental Panel on Climate Change proposes that the world reduce carbon emissions to 
-zero by 2050. Many countries, states, and cities have adopted that goal. Just last week, the European Union—collectively responsible for 10 
-percent of global emissions—laid out its own plan for reaching that target.
-Globally, however, hitting that goal won't be easy. Today's report shows emissions are expected to jack up 2.7 percent in 2018. And many positive gains from the past few years seemed to evaporate: The US backslid on fossil fuel use, posting an increase in emissions this year after a decade of decline. Oil use, too, is on the rise around the world after a dip that many hoped would be permanent--even as the number of electric vehicles doubled to 4 million in the last two years.
-Even in a progressive country like France, riots just this week forced Prime Minister Édouard Philippe to suspend a rise in the gasoline tax
+</problem> 
+</p>
+       
+       <sectionHead>The love and rage solution </sectionHead>
+<p>
+    To avoid that fate, an October report by the <gov govLevel="international"> Intergovernmental Panel on Climate Change</gov> proposes that the world reduce carbon emissions to 
+    zero by 2050. Many countries, states, and cities have adopted that goal. Just last week, the <gov govLevel="national">European Union</gov> <problem probType="country">—collectively responsible for 10 
+        percent of global emissions—laid out its own plan for reaching that target. </problem>
+Globally, however, hitting that goal won't be easy. Today's report shows emissions are expected to jack up 2.7 percent in 2018. And many positive gains from the past few years seemed to evaporate: 
+The <place> US </place> backslid on  fossil fuel use, posting an increase in emissions this year after a decade of decline. <problem probType="carbonGas"> Oil use, too, is on 
+    the rise around the world after a dip that many hopedwould be permanent--even as the number of electric vehicles doubled to <extent quantity="4000000" unit="million" what="electricCars">4 million in the last two years.
+        Even in a progressive country like France, riots just this week forced Prime Minister Édouard Philippe to suspend a rise in the gasoline tax</extent>  </problem> 
 And even if we meet those goals, it's almost certainly impossible to limit warming to 1.5 degrees without also grabbing carbon from the 
-atmosphere and storing it safely and permanently, according to the most recent IPCC report. But the technologies to do so aren't all ready for widescale use.
-Still, it's important to not get discouraged, Cobb says. We can't afford to just throw up our han
-“From scientific perspective, this is not a pass-fail class,” says Cobb. “It's never too late—but the sooner we act, the better.”
-Late last month, Hans-Joachim Schellnhuber, the founding director of the Potsdam Institute for Climate Research in Germany, tried to summarize what's necessary.
-"We need something like love, rage, and imagination," he told the German radio network Deutschlandfunk. "Love for our fellow humans and for coming generations and other creatures. We need rage as well, to stop the game played by some businesses. And we need a whole lot of scientific and technical imagination, maybe artistic imagination too. The mix of all that could actually do it."
+Still, it's important to not get discouraged, Cobb says. We can't afford to just throw up our hand
+<problem probType="time"> “From scientific perspective, this is not a pass-fail class,” says Cobb. “It's never too late—but the sooner we act, the better.”
+</problem>
+    Late last month, Hans-Joachim Schellnhuber, the founding director of the <org>Potsdam Institute for Climate Research </org> in <place>Germany</place>, tried to summarize what's necessary.
+    <solution solType="people"> "We need something like love, rage, and imagination," he told the German radio network Deutschlandfunk. "Love for our fellow humans and for coming generations and other creatures. We need rage as well,
+    to stop the game played by some businesses. And we need a whole lot of scientific and technical imagination, maybe artistic imagination too. The mix of all that could actually do it."</solution>
 The third part, imagination—that's what National Geographic plans to focus on in our upcoming climate coverage.
-In the coming months we'll be looking at engineering and ecological approaches to taking carbon back out of the atmosphere, at tipping points 
+<solution solType="research">In the coming months we'll be looking at engineering and ecological approaches to taking carbon back out of the atmosphere, at tipping points 
 in the climate system that make the task more urgent, and at ways that communities around the world are already adapting to the change that 
-is upon us—and that we're all going to be adapting to for a long time.
+is upon us—and that we're all going to be adapting to for a long time.</solution>
+</p>
+   </body>
 
 </xml>

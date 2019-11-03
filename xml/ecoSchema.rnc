@@ -35,7 +35,7 @@ gov = element gov { govRef?, govLevel, text }
 # ebb: The element gov should wrap around any reference to a government at any level. We'll use attributes to distinguish different levels of government. 
 govRef = attribute govRef { text }
 # ebb: let's come up with a list of identifiers for government names you're reading about.
-govLevel = attribute govLevel { "national" | "state" | "local" }
+govLevel = attribute govLevel { "national" | "state" | "local" | "international"}
 problem =
     element problem {
         probType,
@@ -45,7 +45,7 @@ problem =
     }
 probType =
     attribute probType {
-        "climateChange" | "extinction" | "humanLifeSupport" | "deforest" | "carbonGas" | "people" | "desease" 
+        "climateChange" | "extinction" | "humanLifeSupport" | "deforest" | "carbonGas" | "people" | "desease" |"nature"|"budget"|"country"|"time"
     }
 # ebb: let's come up with a list of specific problem types to reference in short strings
 cause =
@@ -53,14 +53,14 @@ cause =
         causeType?,
         mixed { (extent | action | place | org | gov | product | resource | plant | animal)* }
     }
-causeType = attribute causeType { "policy" | text }
+causeType = attribute causeType { "policy"|"nature" | text }
 product = element product { text }
 animal = element animal { text }
 plant = element plant { text }
 resource = element resource { text }
 extent = element extent { quantity, unit, what, text }
 # the element extent is meant to wrap around specific numerical measurements of a problem, solution, or action, in time, space, or scope.
-what = attribute what { "worldForest" | "AmazonForest" | "trees" | "people" | "time" | "carbonGas" }
+what = attribute what { "worldForest" | "AmazonForest" | "trees" | "people" | "time" | "carbonGas"|"electricCars"|"fuelCars"}
 quantity = attribute quantity { xsd:decimal }
 unit = attribute unit { text }
 # ebb: let's come up with a list of units you are encountering, and find a standard way to refer to them in this attribute.
@@ -69,7 +69,7 @@ solution =
         solType,
         mixed { (extent | action | place | org | gov | product | resource | plant | animal)* }
     }
-solType = attribute solType { "recycle" | "plantTrees" | "politics" | "consumer"| "prevention"|"research"}
+solType = attribute solType { "recycle" | "plantTrees" | "politics" | "consumer"| "prevention"|"research"|"people"}
 # ebb: let's come up with a list of specific solution types to reference in short strings
 action =
     element action {
