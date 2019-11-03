@@ -1,6 +1,6 @@
 start = xml
 xml = element xml { header, abstract?, body }
-abstract = element abstract { text }
+abstract = element abstract {text}
 header = element header { title, author, publication, date, source }
 title = element title { text }
 # for the title of the article
