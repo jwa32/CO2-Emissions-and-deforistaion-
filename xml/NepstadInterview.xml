@@ -7,7 +7,7 @@
 
     <title>How The Fires In The Amazon Rainforest Will Impact The Global Ecosystem </title>
     <author> Audie Conrnish </author>
-    <publication> Heard on radiostation="NPR"> All Things Considered </publication>
+    <publication ref="NRP"> Heard on radiostation="NPR"> All Things Considered </publication>
     NPR's Audie Cornish  speaks with Dan Nepstad, president and founder of the Earth 
 Innovation Institute, about the immediate and longer-term impact of fires in the Amazon. 
     <date when = "August 27, 2019" > August 27, 2019 5:18 PM ET </date>

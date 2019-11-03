@@ -18,7 +18,7 @@ body = element body { (sectionHead | p)+ }
 sectionHead = element sectionHead { text }
 p =
     element p {
-        n?,
+        title?,n?,
         mixed { (place | org | gov | policy | problem | solution)+ }
     }
 n = attribute n { xsd:integer }
@@ -45,7 +45,7 @@ problem =
     }
 probType =
     attribute probType {
-        "climateChange" | "extinction" | "humanLifeSupport" | "deforest" | "carbonGas"
+        "climateChange" | "extinction" | "humanLifeSupport" | "deforest" | "carbonGas" | "people" | "desease" 
     }
 # ebb: let's come up with a list of specific problem types to reference in short strings
 cause =
@@ -69,7 +69,7 @@ solution =
         solType,
         mixed { (extent | action | place | org | gov | product | resource | plant | animal)* }
     }
-solType = attribute solType { "recycle" | "plantTrees" | "politics" | "consumer" }
+solType = attribute solType { "recycle" | "plantTrees" | "politics" | "consumer"| "prevention"|"research"}
 # ebb: let's come up with a list of specific solution types to reference in short strings
 action =
     element action {
