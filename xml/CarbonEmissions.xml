@@ -39,10 +39,10 @@ Or, as one German researcher put it, we need "love, rage, and imagination."
 Just in the last few months, scientists have unveiled a slew of new reports that lay out how significantly climate change has altered
 the globe—and how much worse it can get.
 "We know what's coming down the pike,” says Kim Cobb, a climate scientist at <org>the Georgia Institute of Technology</org>, “because part of it isalready here.”
-Hurricanes such as Maria and Harvey were stronger and more damaging, and intensified more swiftly thanks to soaring temperatures. Rising oceans now lap at the foot of Texas’s
-coastal oil refineries and New York City’s water treatment facilities.
- Ocean heat waves are wiping out coral reefs and fueling toxic, deadly algal blooms. <problem probType="nature" > Heat waves on land last longer than they used to,  sparking drought and feeding wildfires like the savage blazes
-     that killed at least 85 people in California in November.</problem>
+    <problem probType="climateChange" >Hurricanes such as Maria and Harvey were stronger and more damaging, and intensified more swiftly thanks to <cause>soaring temperatures.</cause>Rising oceans now lap at the foot of Texas’s
+        coastal oil refineries and<place> New York City’s</place>  <place>water treatment facilities.</place></problem>
+ Ocean heat waves are wiping out coral reefs and fueling toxic, deadly algal blooms.  Heat waves on land last longer than they used to,  sparking drought and feeding wildfires like the savage blazes
+     that killed at least 85 people in California in November.
 The problem can seem intractable and confusing. But out of the deluge of data, a simple truth emerges:<solution solType="prevention"> To keep warming from wreaking too much
 havoc on the planet, we must put hard limits on how much more carbon dioxide collects in the atmosphere. And just cutting carbon out of our 
 daily lives and economy probably won’t be enough: To keep climate change in check,

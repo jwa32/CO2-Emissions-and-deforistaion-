@@ -25,7 +25,7 @@ two decades isn’t long in the life of <cause causeType="fires"> a forest where
     fires for millennia.</cause>  Paleoecology—the study of ancient environments—offers unique insights into how the first
 Amazonian peoples manipulated fire in the landscape, the effects of those fires on the forest’s ecology over 
 time, and lessons that might help to prevent modern fires.</problem>
-    <problem probType="people">Layers of charcoal buried below the rainforest’s surface reveal that for thousands of years, <cause causeType="resource"> the Amazon’s 
+    <problem probType="fires">Layers of charcoal buried below the rainforest’s surface reveal that for thousands of years, <cause causeType="resource"> the Amazon’s 
         ancient inhabitants used fire to clear the forest floor for agriculture—and that it had a lasting effect,
 making those areas more fire prone today. But unlike many of the current fires, set to flatten the forest entirely, those indigenous fire practices left trees standing.</cause> 
     </problem>
@@ -67,13 +67,13 @@ combination of compost, waste, and charcoal, creating soils so rich they’re st
 managed,” says Maezumi. <cause >Fire was a key part of their land-use </cause> strategy.</problem>
 The charcoal records, together with pollen and other plant remains, showed that people were clearing the
 +understory with frequent, <solution solType="prevention"> low-intensity burning,which Maezumi says would have limited the buildup of fuels and may have prevented larger wildfires. </solution>
-That maintenance mattered, because in altering the composition of the forest, <problem probType="people">the ancient Amazonians also made it
+     That maintenance mattered, because in altering the composition of the forest, <problem probType="ancientLife">the ancient Amazonians also made it
     more flammable and fire-prone—changes so profound that they can still be detected today.</problem> 
 Crystal McMichael from the University of Amsterdam was involved in a <solution solType="research">  study that used remote sensing to measure the 
     water content of the canopy in different parts of the Amazon.
 “We actually got results we didn’t quite expect,” McMichael says.
 They’d thought that the fertile forests where generations of pre-Columbian people had enriched the soil—creating 
-what’s called terra preta, or Amazonian dark earths—would be more lush than surrounding areas.
+what’s called <product>  terra preta,</product> or Amazonian dark earths—would be more lush than surrounding areas.
 Instead, trees on those sites had less green canopy and lower water content, especially in drought years. They also
 had slightly smaller trees and less tree cover.</solution>
 That makes sense, says Maezumi: “Imagine a dense rainforest, really dark and wet, with no sunlight penetrating 
@@ -93,9 +93,9 @@ government policies have suppressed the use of fire. In the drier, human-altered
 These flammable forests—making up perhaps three percent of the Amazon—could therefore act as catalysts forwildfires, Maezumi suggests, enabling them to spread into neighboring old-growth stands.
     <cause> “In the warmer, drier, more drought-prone world that we are facing—a world in which humans light fires</cause>—what could we do? We could identify the areas that are the most vulnerable, like these forests that were managed by pre-Columbian peoples, and target them as <place> high-risk zones</place>.”
     What’s important, says McMichael, is that the ancient burning isn’t used to justify modern fires.</problem>
-<problem probType="people">  Humans might have burned some parts of the Amazon for  thousands of years, but the fire records analyzed so 
+<problem probType="ancientLife">  Humans might have burned some parts of the Amazon for  thousands of years, but the fire records analyzed so 
     far indicate that the scale of forest disturbance in the 21st century is probably unprecedented.</problem>
-    Maezumi’s sediment cores from Lake Caranã show the last few decades have laid down charcoal in the <place>lake-bed  </place> at a rate four times higher than during the peak of the pre-Colombian period.
+    Maezumi’s sediment cores from <place>ake Caranã</place>L show the last few decades have laid down charcoal in the <place>lake-bed  </place> at a rate four times higher than during the peak of the pre-Colombian period.
 That would mean there’s nothing in the charcoal archives that can tell us what happens next, says McMichael.
 “The fires that we see in the paleo record are temporally less frequent, seem to be spatially less extensive across the landscape, and didn’t occur everywhere. So really, we don’t know what happens if you introduce fire into a lot of those other areas,” she says.
 </p>

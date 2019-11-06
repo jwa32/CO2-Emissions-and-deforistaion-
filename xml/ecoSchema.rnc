@@ -45,7 +45,7 @@ problem =
     }
 probType =
     attribute probType {
-        "climateChange" | "extinction" | "humanLifeSupport" | "deforest" | "carbonGas" | "people" | "desease" |"nature"|"budget"|"country"|"time" |"fires"|"smoke"
+        "climateChange" | "extinction" | "humanLifeSupport" | "deforest" | "carbonGas" | "desease" |"budget"|"country"|"time" |"fires"|"smoke"|"ancientLife"
     }
 # ebb: let's come up with a list of specific problem types to reference in short strings
 cause =
@@ -60,7 +60,7 @@ plant = element plant { text }
 resource = element resource { text }
 extent = element extent { quantity, unit, what, text }
 # the element extent is meant to wrap around specific numerical measurements of a problem, solution, or action, in time, space, or scope.
-what = attribute what { "worldForest" | "AmazonForest" | "trees" | "people" | "time" | "carbonGas"|"electricCars"|"fuelCars"}
+what = attribute what { "worldForest" | "AmazonForest" | "trees" | "people" | "time" | "carbonGas"|"electricCars"|"fuelCars"| "fires"}
 quantity = attribute quantity { xsd:decimal }
 unit = attribute unit { text }
 # ebb: let's come up with a list of units you are encountering, and find a standard way to refer to them in this attribute.
@@ -69,7 +69,7 @@ solution =
         solType,
         mixed { (extent | action | place | org | gov | product | resource | plant | animal)* }
     }
-solType = attribute solType { "recycle" | "plantTrees" | "politics" | "consumer"| "prevention"|"research"|"people"}
+solType = attribute solType { "recycle" | "plantTrees" | "politics" | "consumer"| "prevention"|"research"|"people"| "solarEnergy"| "renewableEnergy"}
 # ebb: let's come up with a list of specific solution types to reference in short strings
 action =
     element action {
