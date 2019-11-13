@@ -4,14 +4,15 @@
 
 <header> 
     <title> New Global CO2 Emissions Numbers Are In. They’re Not Good.</title>
-    <author> by Kelly Levin Kelly Levin </author>
+    <author> Kelly Levin  </author>
     <publication ref="WRI"> World Resource Institute</publication>
     <date when="2018-12-05">- December 05, 2018 </date>
     <source cat="summary" link="https://www.wri.org/blog/2018/12/new-global-co2-emissions-numbers-are-they-re-not-good"> </source>
 
 </header>
-<sectionHead> Intro </sectionHead>
+
 <abstract>
+    
 Each year in late November or early December, climate negotiators, NGOs and increasingly cities 
 and businesses head to the annual climate talks. Typically coinciding with these negotiations is an announcement 
 from the Global Carbon Project, which releases its annual data on carbon dioxide emissions, backed up by peer-reviewed
@@ -27,61 +28,62 @@ low-carbon sources. Here are a few highlights from the new data.
     <p>
 
 Last year’s Global Carbon Project forecast for 2017 (a forecast because the year was not over when the data were first published)
-made a splash: They expected fossil carbon dioxide emissions to grow in 2017, after flattening from 2014 to 2016.
+made a splash: <problem probType="carbonGas">They expected <product> fossil carbon dioxide emissions</product> to grow in 2017, after flattening from 2014 to 2016.
 Prior to this, the climate community had been patting themselves on the back as emissions had been stabilizing. In a rough wake-up call,
-the Global Carbon Project found this was no longer the case. This year’s numbers confirm their earlier projection: Total carbon dioxide
-emissions from fossil fuels and industry rose by 1.6 percent in 2017 to 36.2 gigatonnes CO2.
-Furthermore, the Global Carbon Project expects that this number is projected to have climbed to a record 37.1 
+the <gov govLevel="international"> Global Carbon Project </gov>found this was no longer the case. This year’s numbers confirm their earlier projection: <cause causeType="policy"> Total carbon dioxide
+</cause></problem>
 gigatonnes CO2 in 2018. Carbon dioxide emissions from fossil fuel sources will have grown by 2.7 percent this year, growing 
-ven more quickly than the previous year, which saw a 1.6 percent increase.
+even more quickly than the previous year, which saw a 1.6 percent increase.
 
     </p>
+       
     <sectionHead> World’s Major Emitters Not Doing Enough </sectionHead>
     <p> 
 
-The world is looking to developed countries to lead the way to a low carbon future. But they are not curbing their reduction in fossil
-fuel consumption quickly enough.
-In the case of the United States, emissions are headed in the wrong direction altogether. Energy use in the U.S. has increased over the last five years, reversing a
+        <problem probType="fossilFuel">The world is looking to developed countries to lead the way to a low carbon future. But they are not curbing their reduction in fossil
+            fuel consumption quickly enough.</problem>
+        In the case of the <place>United States,</place> emissions are headed in the wrong direction altogether. <problem probType="fossilFuel"> Energy use in the <place>U.S.</place> has increased over the last five years, reversing a
 decade of decline. Emissions are expected to increase in the US in 2018—a 2.5 percent increase between 2017 and 2018—in part due to weather (greater heating and 
-cooling demands) and increases in oil use due to low oil prices. Emissions declines in the E.U. have slowed recently. Between 2017 and 2018, the EU saw a decline of
-emissions of only 0.7 percent.
-At the same time, emissions growth is not slowing in other parts of the world, and in many cases is accelerating. Between 2017 and 2018, CO2 emissions climbed by 6.3
-percent in India (a rate three times higher than last year’s) and by 4.7 percent in China (compared with last year’s rate of increase of 3.5 percent). The rest of the 
-world’s emissions have also been growing on average, with CO2 emissions 1.8 percent higher in 2018 than 2017.
+cooling demands) and increases in oil use due to low oil prices. Emissions declines in the <gov govLevel="national">E.U. </gov> have slowed recently. Between 2017 and 2018, the EU saw a decline of
+emissions of only 0.7 percent.</problem>
+At the same time,<problem probType="carbonGas"> emissions growth is not slowing in other parts of the world, and in many cases is accelerating. Between 2017 and 2018, CO2 emissions climbed by 6.3
+    percent in India (a rate three times higher than last year’s) and by 4.7 percent in <place>China </place>(compared with last year’s rate of increase of 3.5 percent). The rest of the 
+    world’s emissions have also been growing on average, with <cause>CO2 emissions</cause> 1.8 percent higher in 2018 than 2017.</problem>
 There are bright spots. Almost 20 countries, contributing 20 percent of global CO2 emissions, have decoupled fossil CO2 emissions and economic growth over the past decade.
     </p>
     
     <sectionHead> Natural Gas and Oil Use Still Rising</sectionHead>
 <p> 
-Natural gas use is seeing the greatest acceleration, growing 2 percent annually in the last five years. While it has a lower carbon footprint
-than other fossil fuels, such as coal, it is a major source of the increase in carbon dioxide emissions. This is because natural gas is not only being used 
-to replace coal, but also meet new energy consumption needs. In China, natural gas rose 8.4 percent per year since 2013 to respond to new energy needs, such as 
-for heavy manufacturing, in addition to replacing coal.
-Oil is also on the rise, with oil consumption up 1.4 percent per year since 2012. Most of the increase has been in China and India, with increases of roughly
+    <problem probType="carbonGas"> <cause>Natural gas</cause> use is seeing the greatest acceleration, growing 2 percent annually in the last five years. While it has a lower carbon footprint
+        than other <cause>fossil fuels</cause>, such as coal, it is a major source of the increase in carbon dioxide emissions. This is because natural gas is not only being used 
+    to replace coal, but also meet new energy consumption needs. In <place>China</place>, natural gas rose 8.4 percent per year since 2013 to <cause> respond to new energy needs,</cause>  such as 
+        for heavy manufacturing, in addition to replacing <product> coal.</product></problem>
+    Oil is also on the rise, with oil consumption up 1.4 percent per year since 2012. Most of the increase has been in <place> China </place>and <place> India</place>, with increases of roughly
 4 to 5 percent per year. While it had been previously thought that oil had reached its peak in the U.S. and E.U., oil use increased by 1.3 and 0.4 percent per 
 year in these regions, respectively. Greater reliance on vehicles—with the number of vehicles growing 4 percent per year globally since 2012—and longer trips per
-vehicle can help explain recent trends. Furthermore, air traffic is on the rise, offsetting any increases in fuel efficiency.
+vehicle <problem probType="fossilFuel"> can help explain recent trends. Furthermore,<cause>  air traffic is on the rise, offsetting any increases in fuel efficiency.</cause></problem>
 </p>
     <sectionHead> Coal Is a More Complicated Story</sectionHead>
 <p> 
-One piece of good news: Coal consumption has been declining steadily since 2013. Global energy consumption from coal is declining on average almost 1 percent per year. In Canada and the U.S., coal consumption dropped 40 percent since 2005. Coal may be phased out entirely in the United Kingdom by 2025, and in the E.U. 
+    One piece of good news:  Coal consumption has been declining steadily since 2013. <gov govLevel="international"> Global energy consumption </gov> from coal is declining on average almost 1 percent per year. In Canada and the U.S., coal consumption dropped 40 percent since 2005. Coal may be phased out entirely in the United Kingdom by 2025, and in the E.U. 
 renewables may supply more primary energy than coal by 2021. However, the declines in coal in these countries could eventually be eclipsed by increased
 use of coal in other countries who currently lack energy access and are undertaking efforts to provide reliable energy accordingly. Coal consumption has been
-increasing in the Asia Pacific and Central/South America regions by 3 percent per year over the last decade. In India alone, the consumption of coal has risen 
-almost 5 percent per year in recent years and now is greater than that of the E.U. and U.S. combined. Yet significant numbers of people in India—hundreds of millions—s
-till lack access to reliable sources of electricity.
+increasing in the Asia Pacific and Central/South America regions by 3 percent per year over the last decade. <problem probType="fossilFuel"> In India alone, the consumption of coal has risen 
+    almost <cause>  5 percent per year in recent years and now is greater than that of the E.U. and U.S. combined.</cause> <cause> Yet significant numbers of people in <place>India</place>—hundreds of millions—s
+        till lack access to reliable sources of electricity.</cause></problem>
 </p>
     
     <sectionHead>Emissions Likely to Increase in 2019</sectionHead>
 <p>
-The picture is uncertain in 2019, but a key publication associated with the Global Carbon Project expects even further increases in 2019 given the persistent growth in oil and natural
-gas and projected economic growth next year. This is deeply troubling considering that the latest climate science suggests emissions should peak by 2020 to have a good chance of avoiding some of the worst climate impacts.
-When the Global Carbon Project’s initial figures came out last year suggesting that 2017 ended a period of emissions flattening, it was difficult to tell whether it was a temporary uptic
-k or indicative of a longer trend. It’s of course still challenging to tell with just a few years of data, but it is now clear that 2017 wasn’t just an outlier.
-We have no signs that emissions are stabilizing, let alone swiftly declining, which is necessary if we are to meet the Paris Agreement’s temperature goals.
-Hopefully the negotiators in the halls of Katowice, Poland are hearing the Earth’s distress calls—in the form of unusual storms, heat waves, and fires—that 
-further ambition is needed. Parties have an opportunity to put forward more ambitious national commitments by 2020, and they should do so as soon as possible.
-Greater ambition is also needed on financing to provide adequate support to developing countries to make a transition to a low carbon economy. It will be critical 
+    The picture is uncertain in 2019, but a key publication associated with the <gov govLevel="international">Global Carbon Project</gov> <problem probType="carbonGas"> expects even further increases 
+        in 2019 given the persistent growth in <product>oil  and natural</product>
+        gas and projected economic growth next year.</problem>  <problem probType="carbonGas">This is deeply troubling considering that the latest climate science suggests emissions should peak by 2020 
+            to have a good chance of avoiding some of the worst climate impacts.</problem> 
+<solution solType="research"> When the Global Carbon Project’s initial figures came out last year suggesting that 2017 ended a period of emissions flattening, it was difficult to tell whether it was a temporary uptic
+    k or indicative of a longer trend. It’s of course still challenging to tell with just a few years of data, but it is now clear that 2017 wasn’t just an outlier.</solution>
+    <problem probType="carbonGas"> We have no signs tha  emissions are stabilizing, let alone swiftly declining, which is necessary if we are to meet the <place>Paris</place> Agreement’s temperature goals.</problem>
+further ambition is needed. <solution solType="politics"> Parties have an opportunity to put forward more ambitious national commitments by 2020, and they should do so as soon as possible.
+    Greater ambition is also needed on financing to provide adequate support to developing countries to make a transition to a low carbon economy.</solution> It will be critical 
 for Parties to consider if they can commit to peak emissions more quickly, peak at lower emissions levels and decline emissions much more rapidly for those countries 
 that have already peaked emissions.
 </p>

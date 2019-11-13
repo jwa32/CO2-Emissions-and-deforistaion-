@@ -45,7 +45,7 @@ problem =
     }
 probType =
     attribute probType {
-        "climateChange" | "extinction" | "humanLifeSupport" | "deforest" | "carbonGas" | "desease" |"budget"|"country"|"time" |"fires"|"smoke"|"ancientLife"
+        "climateChange" | "extinction" | "humanLifeSupport" | "deforest" | "carbonGas" | "desease" |"budget"|"country"|"time" |"fires"|"smoke"|"ancientLife"|"fossilFuel"
     }
 # ebb: let's come up with a list of specific problem types to reference in short strings
 cause =
