@@ -6,14 +6,14 @@
     <line x1="25" y1="300" x2="700" y2="300" stroke="black" stroke-width="3" ></line>
     
     <line x1="25" y1="25" x2="25" y2="300" stroke="black" stroke-width="3" ></line>
-    <text x="12" y="302" style="fill:navy; stroke-width: 2; text-anchor:start">0--</text>
-    <text x="9" y="270" style="fill:navy; stroke-width: 2; text-anchor:start">200 --</text>
-    <text x="4" y="238" style="fill:navy; stroke-width: 2; text-anchor:start">300--</text>
-    <text x="4" y="206" style="fill:navy; stroke-width: 2; text-anchor:start">400--</text>
-    <text x="4" y="174" style="fill:navy; stroke-width: 2; text-anchor:start">500--</text>
-    <text x="4" y="142" style="fill:navy; stroke-width: 2; text-anchor:start">600--</text> 
-    <text x="4" y="110" style="fill:navy; stroke-width: 2; text-anchor:start">700--</text>
-    <text x="4" y="78" style="fill:navy; stroke-width: 2; text-anchor:start">800--</text>
+    <text x="4" y="302" style="fill:navy; stroke-width: 2; text-anchor:start">0--</text>
+    <text x="-1" y="270" style="fill:navy; stroke-width: 2; text-anchor:start">200--</text>
+    <text x="-1" y="238" style="fill:navy; stroke-width: 2; text-anchor:start">300--</text>
+    <text x="-1" y="206" style="fill:navy; stroke-width: 2; text-anchor:start">400--</text>
+    <text x="-1" y="174" style="fill:navy; stroke-width: 2; text-anchor:start">500--</text>
+    <text x="-1" y="142" style="fill:navy; stroke-width: 2; text-anchor:start">600--</text> 
+    <text x="-1" y="110" style="fill:navy; stroke-width: 2; text-anchor:start">700--</text>
+    <text x="-1" y="78" style="fill:navy; stroke-width: 2; text-anchor:start">800--</text>
     
     <text x="100" y="234" style="fill:navy; stroke-width: 2; text-anchor:start">303,712</text> 
     <rect x="100" y="238" height="60" width="29" style="fill:red"/>
