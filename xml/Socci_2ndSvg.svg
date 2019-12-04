@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc>Deforestation by each country over the years in Thousands of hectares</desc>
+    <g alignment-baseline="baseline"></g>
+    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+        <line x1="Russia" y1="5.562" stroke="Red"></line>
+        <line x2="Brazil" y2="2.954" stroke="Green"></line>
+        <line x3="Canada" y3="2.143" stroke="Red"></line>
+        <line x4="USA" y4="2.094" stroke="Blue"></line>
+        <line x5="Congo" y5="1.374" stroke="Blue"></line>
+        <line x6="Indonesia" y6="1.219" stroke="White"></line>
+        <line x7="China" y7=".570" stroke="Red"></line>
+        <line x8="Malaysia" y8=".438" stroke="White"></line>
+        <line x9="Madagasgar" y9=".366" stroke="Green"></line>
+        <line x10="Colombia" y10=".353" stroke="Yellow"></line>
+    </g>
+             
+</svg>
