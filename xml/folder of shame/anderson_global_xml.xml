@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>2.1
+<?xml-model href="../ecoSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+  <header>
+      <!--ebb: What is the source of this article? We need header information -->
+  </header>  
+    2.1
 Global overview of carbon
 pricing initiatives
 As of <date>2018,5</date> <quntity>45</quntity> national and <quantity>25</quantity> subnational
@@ -64,4 +69,4 @@ the EUA price and the <object>carbon tax</object> rate in <location>France</loca
 EU ETS remains the largest source of <object>carbon</object> pricing
 revenues due to its size, followed by the <object>carbon
 taxes</object> in <location>,</location> <location>Sweden</location> and <location>Japan,</location> as illustrated in
-Figure 8.</root>
+Figure 8.</xml>
