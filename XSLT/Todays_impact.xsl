@@ -9,7 +9,7 @@
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
         omit-xml-declaration="yes"/>
 
-    
+    <xsl:variable name="EcoColl" select="collection('xml/?select=*.xml')"/>
     <xsl:template match="/">
         <html>
             <head>
@@ -22,7 +22,7 @@
             <br></br>
         <body> 
             <xsl:for-each select="//body/p"> 
-                 <xsl:value-of select="sectionHead"/><br></br>
+                <br></br>   <xsl:value-of select="sectionHead"/><br></br>
                  <xsl:value-of select="problem"/><br></br>
                 <xsl:value-of select="extent"/><br></br> 
                 <xsl:value-of select="cause"/><br></br> 
