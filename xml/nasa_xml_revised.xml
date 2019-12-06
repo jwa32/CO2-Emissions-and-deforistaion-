@@ -1,0 +1,60 @@
+
+<?xml-model href="../Github/CO2-Emissions-and-deforistaion-/xml/ecoSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <header>
+       <title> NASA's Ecosystem Spaceborne Thermal Radiometer Experiment on Space Station (ECOSTRESS)</title>
+        <author>Esprit Smith</author>
+        <publication ref="NASA>"></publication>
+        <date when="2019-08-28"></date>
+        <source cat="summary" link="https://climate.nasa.gov/news/2909/nasas-ecostress-detects-amazon-fires-from-space/"/>
+    
+    </header>  
+    
+    
+        
+    <abstract>
+    captured imagery of fires in the Amazon regions of
+        Brazil and Bolivia on Aug. 23, 2019.
+    The red areas in the images - in eastern Bolivia and
+        northern Brazil - are where surface temperatures exceeded the maximum
+    measurable temperature of the instrument's sensor (approximately 220
+        degrees Fahrenheit, or 104 degrees Celsius), highlighting the burning
+    areas along the fire fronts. The dark, wispy areas indicate thick smoke - thick enough to
+        obscure much of the fire from view. The measurements cover
+    areas of about 77 by 77 yards
+    (70 by 70 meters) each, or about the size of a football
+    field. 
+    </abstract>
+    
+    <body>
+        
+        <sectionHead>ECOTRESS and satalite observation</sectionHead>
+    <p>
+        The primary mission of <org>ECOSTRESS</org> is to measure the temperature of
+        plants from the vantage point of the <place>International Space
+        Station.</place> However, it can also detect other heat-related
+    phenomena like heat waves, volcanoes and fires. Due to the <place>space
+        station's</place> unique orbit, <org>ECOSTRESS</org>
+    acquires <solution solType="research">imagery of the same areas at different times of day as it
+        passes by overhead - instead of crossing over each area at
+    the same time of day like satellites in some other orbits do.</solution> This is
+    particularly important when trying to acquire cloud-free imagery over
+    perennially cloudy areas like the <place>Amazon.</place>
+    </p>
+    
+    <sectionHead>Nasa's satlite reaseach on the Amazon</sectionHead>
+    <p>
+        <org>ECOSTRESS</org> launched to the <place>space station</place> on June 29,
+        2018.
+    <org>NASA's</org>
+    <place>Jet Propulsion Laboratory</place> in <place>Pasadena, California</place>,
+        built and manages the <org>ECOSTRESS</org> mission for the
+        <org>Earth Science Division</org> in the Science Mission Directorate at
+        <place>NASA Headquarters</place> in <place>Washington</place>.
+        <org>ECOSTRESS</org> is an Earth Venture Instrument mission; the program is managed
+    by <org>NASA's Earth System Science Pathfinder</org> program at <place>NASA's Langley
+        Research Center</place> in <place>Hampton, Virginia.</place>
+    </p>
+    
+    </body>
+</xml>
