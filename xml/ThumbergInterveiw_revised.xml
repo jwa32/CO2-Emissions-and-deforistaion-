@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="ecoSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml> 
+  <header>
+<title> Moral Resposibility to U.S</title>
+    <author> Bill Chappell, ailsa chang</author>
+    <publication ref="NPR">  </publication>
+    <date when="2019-09-13"> September 13,2019 </date>
+    <source cat="interview" link=""></source>
+  </header>
+    
+    <abstract>
+        Interview
+    </abstract>
+    
+    <body>
+    
+        <p> 
+            <sectionHead> Intro</sectionHead>
+            Greta Thunberg led a protest at the <place>White House</place> on Friday. But she wasn't looking to go inside — "I don't want to meet with people who don't accept the science," she says.
+            
+            The young Swedish activist joined a large crowd of protesters who had gathered outside, <problem probType="climateChange">  calling for immediate action to help the environment and reverse an alarming warming trend in average global temperatures.</problem>
+            
+            She says her message for President Trump is the same thing she tells other politicians: Listen to science, and take responsibility.
+            
+            Thunberg, 16, arrived in the <place>U.S.</place> last week after <solution solType="prevention">sailing across the <place> Atlantic</place> to avoid the carbon emissions from jet travel.</solution> 
+            
+        </p>
+        
+ 
+        <p>        
+            <sectionHead> The Interview </sectionHead>
+            She plans to spend nearly a week in<place> Washington, D.C.</place> — but she doesn't plan to meet with anyone from the <org>Trump administration</org> during that time. 
+            "I haven't been invited to do that yet. And honestly I don't want to do that," Thunberg tells <org> NPR's</org> Ailsa Chang.  If people in the <place>White House </place>  who reject climate change want to change their minds, she says, they should rely on scientists and professionals to do that.
+
+But <solution solType="politics">Thunberg also believes the <place>U.S.</place> has an "incredibly important" role to play in fighting climate change.
+</solution>
+"You are such a big country," she says. "In <place>Sweden,</place> when we demand politicians to do something, they say, 'It doesn't matter what we do — because just look at the <place>U.S.</place>'
+
+<solution solType="politics">
+"I think you have an enormous responsibility" to lead climate efforts, she adds. "You have a moral responsibility to do that."
+
+Thunberg is known for promoting school strikes among students concerned by climate change. On Aug. 20, 2018, she skipped school to protest by herself outside <gov govLevel="national">Sweden's parliament.</gov>
+</solution>
+            
+"I handed out fliers with a long list of facts about the climate crisis and explanations on why I was striking," she said in a Facebook post.<solution solType="prevention"> She's since inspired student protests in dozens of countries.</solution>
+
+Her fame has grown steadily, thanks to the clear terms in which she speaks about why people — particularly young people — must pay attention to Earth's climate. She gave a <org>TED Talk</org> about the issue last November; one month later, she made a powerful speech at a <org>U.N.</org> climate change conference in <place>Poland.</place>
+<problem probType="climateChange">"You are not mature enough to tell it like it is. Even that burden, you leave to us children," Thunberg, who was then 15, told the grownups at the conference, in a video that's been watched millions of times online.
+</problem>
+Asked when she became so passionate about climate change, Thunberg says it started before she was 10 years old, during a school lesson that, as she recalls, made the entire class very sad.
+
+<problem probType="carbonGas">"We saw these horrifying pictures of plastic in the oceans and floodings and so on, and everyone was very moved by that. But then it just seemed like everyone went back to normal,"</problem> Thunberg says. "And I couldn't go back to normal because those pictures were stuck in my head. And I couldn't just go on knowing that this was happening around the world."
+
+<solution solType="research">She began researching the issue, reading about climate science and asking questions. Her sense of activism grew gradually — and at a time when she says she was dealing with depression. At the time, Thunberg was 11.
+</solution>
+"How I got back from that depression was by telling myself I can do so much good with my life instead of just being depressed," she says.
+
+She became an activist, attending marches and talking to people inside the environmental movement. When the pace seemed too slow, she hit on the idea of a school strike, and a new movement was born. But Thunberg is quick to note that much work remains to be done.
+"Even though this movement has become huge and there have been millions of children and young people who have been school striking for the climate," Thunberg says, "the emission curve is still not reducing ... and of course that is all that matters."
+
+In the past, Thunberg also has spoken about being diagnosed with Asperger syndrome — and how that has helped her.
+
+"My diagnosis helps me helps me see things a bit more clearly sometimes," she says. "When everyone else seems to just compromise and have this double moral that's, 'Yeah. That's very important, but also I can't do that right now and I'm too lazy and so on.'
+
+"But I can't really do that."
+
+Thunberg continues, "I want to walk the talk, and to practice as I preach. So that is what I'm trying to do. Because if I am focused on something and if I know something and if I decide to do something, then I go all in. And it seems like others are not doing that right now. So yeah, it has definitely helped me."
+
+Thunberg has now been nominated for the Nobel Peace Prize. In the <place>U.S.,</place> she plans to lead protests ahead of next week's <place>U.N.</place> <org>Climate Action Summit</org> in <place>New York City.</place> Her arrival in <place>Washington</place> helped kick off that plan.
+
+"Protect our future!" young demonstrators chanted as they marched across the grass north of the <place>White House.</place> One girl held a sign reading, "Make Earth Cool Again."
+
+The only things that seemed to slow Thunberg were the many admirers and journalists that thronged around her on the sidewalks around the <place>White House.</place> The crowd was repeatedly asked to move back, and the diminutive Thunberg was able to inch along, pausing occasionally to acknowledge a question or comment from passers-by.
+
+"Thank you, Greta!" several onlookers shouted. Another yelled out, "We're all here for you — and the climate!"
+
+After the protesters marched around the <place>White House</place> to the lower portion of the Ellipse, Thunberg delivered a short speech, speaking through a megaphone to tell the crowd she's grateful for their support and proud of them for coming to the march.
+
+"This is very overwhelming," Thunberg said, noting the large turnout.
+"Never give up," she told the protesters, adding, "See you next week, on Sept. 20."
+
+The international protest that's planned for next Friday will likely be large. <place>New York</place> City's public school system recently announced that it will excuse the absences of any students who participate in the climate strike.
+
+"Students will need parental consent," the school system said, adding, "Younger students can only leave school with a parent."
+
+And if <solution solType="politics">students elsewhere need an excused-absence note, Amnesty International Secretary General Kumi Naidoo has written a letter to more than 30,000 schools, urging them to allow their students to join the climate strikes.</solution>
+
+<solution solType="politics">Thunberg says that along with boosting people's awareness of the dangers of climate change, she wants them to use their voting power to elect leaders who will work to reduce carbon emissions and slow global warming.</solution>
+
+When asked what her parents think of her activism and the demands on her time, Thunberg says, "Of course they are concerned that I am doing all this and and that I am not going to school."
+
+The young activist adds, "I think they also see that I am happier now than I was before, because I'm doing something meaningful."
+
+She's taking a gap year away from school to focus on her burgeoning youth movement.
+
+Noting her parents' concerns about living a very public life and being out of school, Thunberg says, "I think they support me in at least some way. They know that what I am doing is morally right."
+        </p>
+    </body>
+</xml>

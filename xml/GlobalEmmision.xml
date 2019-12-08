@@ -24,8 +24,9 @@ low-carbon sources. Here are a few highlights from the new data.
 </abstract>
   
    <body>
-    <sectionHead> Record Carbon Dioxide Emissions in 2018</sectionHead>
+    
     <p>
+        <sectionHead> Record Carbon Dioxide Emissions in 2018</sectionHead>
 
 Last year’s Global Carbon Project forecast for 2017 (a forecast because the year was not over when the data were first published)
 made a splash: <problem probType="carbonGas">They expected <product> fossil carbon dioxide emissions</product> to grow in 2017, after flattening from 2014 to 2016.
@@ -37,9 +38,9 @@ even more quickly than the previous year, which saw a 1.6 percent increase.
 
     </p>
        
-    <sectionHead> World’s Major Emitters Not Doing Enough </sectionHead>
+    
     <p> 
-
+        <sectionHead> World’s Major Emitters Not Doing Enough </sectionHead>
         <problem probType="fossilFuel">The world is looking to developed countries to lead the way to a low carbon future. But they are not curbing their reduction in fossil
             fuel consumption quickly enough.</problem>
         In the case of the <place>United States,</place> emissions are headed in the wrong direction altogether. <problem probType="fossilFuel"> Energy use in the <place>U.S.</place> has increased over the last five years, reversing a
@@ -52,8 +53,9 @@ At the same time,<problem probType="carbonGas"> emissions growth is not slowing 
 There are bright spots. Almost 20 countries, contributing 20 percent of global CO2 emissions, have decoupled fossil CO2 emissions and economic growth over the past decade.
     </p>
     
-    <sectionHead> Natural Gas and Oil Use Still Rising</sectionHead>
+    
 <p> 
+    <sectionHead> Natural Gas and Oil Use Still Rising</sectionHead>
     <problem probType="carbonGas"> <cause>Natural gas</cause> use is seeing the greatest acceleration, growing 2 percent annually in the last five years. While it has a lower carbon footprint
         than other <cause>fossil fuels</cause>, such as coal, it is a major source of the increase in carbon dioxide emissions. This is because natural gas is not only being used 
     to replace coal, but also meet new energy consumption needs. In <place>China</place>, natural gas rose 8.4 percent per year since 2013 to <cause> respond to new energy needs,</cause>  such as 
@@ -73,8 +75,9 @@ increasing in the Asia Pacific and Central/South America regions by 3 percent pe
         till lack access to reliable sources of electricity.</cause></problem>
 </p>
     
-    <sectionHead>Emissions Likely to Increase in 2019</sectionHead>
+    
 <p>
+    <sectionHead>Emissions Likely to Increase in 2019</sectionHead>
     The picture is uncertain in 2019, but a key publication associated with the <gov govLevel="international">Global Carbon Project</gov> <problem probType="carbonGas"> expects even further increases 
         in 2019 given the persistent growth in <product>oil  and natural</product>
         gas and projected economic growth next year.</problem>  <problem probType="carbonGas">This is deeply troubling considering that the latest climate science suggests emissions should peak by 2020 
