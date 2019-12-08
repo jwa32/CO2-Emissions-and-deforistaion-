@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Github/CO2-Emissions-and-deforistaion-/xml/ecoSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <header>
+        <title>How Amazon forest loss may affect water—and climate—far away</title>
+        <author>Craig Welch</author>
+        <publication ref="NatGeo"> National Geographic</publication>
+        <date when="2019-09-27"></date>
+        <source cat="summary" link="https://relay.nationalgeographic.com/proxy/distribution/public/amp/environment/2018/11/how-cutting-the-amazon-forest-could-affect-weather"/>
+    </header>
+    
+    <abstract>he president of Brazil has been pursuing his big plans for the Amazon rainforest, even as parts of it burn in massive wildfires.
+        
+        He has been working to carve more mines and pave new roads. He has been pushing for fewer penalties for cutting down trees, and he has promised to halt growth of a network of indigenous forest reserves.
+    </abstract>
+    
+    
+    <body>
+         <sectionHead>Impacts on Wildlife and Indigenous communities</sectionHead>
+        <p>
+            When Jair Bolsonaro, a 63-year-old retired <place>Brazilian</place> military officer, took the helm in January of a country that manages 1.5 million square miles of the Amazon, the risks to <problem probType="fires">wildlife</problem> and indigenous tribal communities were hotly debated. With Bolsonaro's plans, <problem probType="deforest">deforestation</problem> rates in <place>Brazil</place> could quickly triple, according to an assessment by scientists. But the consequences of <policy polType="treaty">Bolsonaro's policies</policy> also are being felt far beyond areas hit by <problem probType="deforest">chainsaws.</problem> Even modest increases in <problem probType="deforest">deforestation</problem> <problem probType="desease">could affect water supplies in Brazilian cities</problem> and in neighboring countries while harming the very farms he is trying to expand. <problem probType="climateChange">More massive deforestation might alter water supplies as far away as Africa or California.
+</problem>        
+         Most troubling of all:<problem probType="extinction"> Some scientists suggest the <place>Amazon</place> may already be nearing a tipping point.</problem> <problem probType="extinction">The region has been so degraded that even a small uptick in deforestation could send the forest hurtling toward a transition to something resembling a woodland savanna</problem>, according to an analysis last year by two top scientists. <problem probType="deforest">In addition to forever destroying huge sections of the world's largest rainforest</problem>, that shift would release tremendous quantities of planet-warming greenhouse gases, which could hasten the decline of whatever forest remained.
+        
+         "We are already in a very critical situation in terms of climate change," says Adriane Esquivel-Muelbert, a native Brazilian who studies tropical forests at the University of Leeds in the United Kingdom. She's the lead author on <problem probType="climateChange">a study published last November showing that the mix of tree species across the forest is already shifting in response to rising temperatures.
+</problem>        
+         "If we mess up with the <place>Amazon,</place> <problem probType="climateChange">carbon dioxide emissions will increase so massively that everyone will suffer,</problem>" she adds.
+        
+         By some accounts, it could happen quite fast.
+        
+         The rainforest creates rain
+            Bolsonaro, a former right-wing congressman from <place>Rio de Janeiro,</place> soundly defeated a former mayor of <place>São Paulo</place> in Brazil's presidential election late last year. The populist president is so openly hostile to his country's established order that some call him "Tropical Trump."
+        
+         His rise comes at a perilous moment for the Amazon.
+        
+         From poison dart frogs and giant anteaters to golden lion tamarins and stinging bullet ants, the <place>South American rainforest</place> is the most species-rich biome on <place>Earth,</place> with more diverse plant life in a single acre than may be found in many American states. It is home to 10 percent of the world's species, including 2.5 million species of insect.
+        
+         The forest also influences the water cycle on a regional and perhaps even global scale. As moisture comes off the <place>Atlantic Ocean</place> it falls on the forest as rain. This water gets sucked up by deep roots, then moves through plants and across the surface of leaves before returning to the atmosphere. Winds blowing over the uneven forest canopy create turbulence, which allows the atmosphere to absorb more moisture.
+        
+         All this water then moves like a giant flowing river in the sky, falling as rain and then evaporating again and again until it reaches the <place>Andes.</place> Ultimately, the forest produces at least half of its own rain.
+        
+         "One water vapor molecule may be recycled five to seven times before it leaves the system, either through the atmosphere or the <place>Amazon River,</place>" says Carlos Nobre, a climate scientist with the University of <place>São Paulo's Institute for Advanced Studies.</place>
+        
+         <problem probType="climateChange">But experts increasingly fear this delicate exchange could collapse. The loss of just a fraction more of this moisture-creating forest could lead far more of it to dry out, which would reduce rainfall even more, in a self-reinforcing spiral.</problem> Already, climate change, decades of logging, and <problem probType="fires">land-clearing by intentionally set wildfires have sparked record-setting droughts in 2005, 2010, and 2015-2016.</problem>
+        
+         "That suggests the system is flickering," says Thomas Lovejoy, a <place>George Mason University</place> professor and senior fellow at the<org> United Nations Foundation,</org> who is widely considered the godfather of biodiversity studies.
+        
+         Lovejoy and Nobre recently tried to estimate how close to the edge the <place>Amazon</place> really is. Their projection, published as an editorial in Science Advances, suggests that in the most susceptible parts of the rainforest—the <place>southern, eastern and central Amazon</place>—<problem probType="deforest">loss of as little as 20 to 25 percent of original forestland</problem> could tip the system into an unstoppable transition to a drier, savanna-like ecosystem.
+        
+        Already, by <org>the Brazilian government's</org> own estimates, 17 percent of the Amazon forest system has been lost—not including the parts that are still largely intact, but degraded.
+        
+         How likely is the scenario Lovejoy describes?
+        
+         "It's not something we know with any confidence, but it's a possibility—and not just a crazy, harebrained possibility. It's a very real one," says Abigail L. S. Swann, a <place>University of Washington</place> eco-climatologist who is contributing to a chapter on abrupt landscape changes for the Intergovernmental Panel on Climate Change's next assessment.
+        
+        While no one knows precisely where the Amazon’s tipping point may lie, "it makes no sense at all to discover the tipping point by actually tipping over it," Lovejoy says.
+        
+         The forest is changing already
+            Even as Bolsonaro pushes his new policies, the <place>Amazon</place> is already changing.
+        
+         The dry season is lengthening and rainfall has dropped by a quarter in some regions.<problem probType="climateChange"> Meanwhile, precipitation, when it comes, sometimes arrives in more intense bursts, leading to massive floods in 2009, 2012, and 2014. The region's climate system is oscillating more wildly.</problem>
+        
+         In the study she led, published in the journal Global Change Biology with more than a hundred other scientists as co-authors, Esquivel-Muelbert found that during the past 30 years, more drought-tolerant plant species have appeared in the <place>Amazon,</place> while species that predominantly emerge in wet areas are declining. Fast-growing trees and taller trees that are better at accessing the sun are outcompeting shorter, damp-loving species.
+        
+         Another study shows <problem probType="deforest">the rate of tree deaths is increasing.</problem>
+        
+         It's not clear whether all this is the beginning of the shift Lovejoy and Nobre predicted—or something else. "But it's still important because the species are beginning to change, and that can change how the forest behaves," Esquivel-Muelbert says.
+        
+         How will that change the interactions among tens of thousands of species within the jungle? No one yet knows.
+        
+         "It's sending ripples through the system, and we have no idea where they are going to lead," Lovejoy says. "It could become a much simpler ecosystem, and what that means in terms of its overall stability is a real question."
+        
+         If Lovejoy is right, and <problem probType="climateChange">heat and deforestation lead to less rain and a transition to a different type of landscape, consequences will be felt far and wide.</problem>
+        
+         Expanding ripples
+            For starters, it's impossible to quantify the true value of lost diversity. In one recent review, a team found evidence that 381 new types of plants or animals had been discovered in the <place>Amazon</place> during a single two-year period from 2014 to 2015—the equivalent of one new species every other day.
+        
+         "It's kind of a cliché that the cure for cancer might be in the Amazon, but it's also kind of true," Esquivel-Muelbert says.
+        
+         Moisture from the <place>Amazon</place> also nourishes the winter rains that supply <place>Uruguay,</place> <place>northern Argentina</place> and <place>Paraguay</place> with water. The recent drought that led to water shortages in <place>São Paulo,</place> Brazil’s largest city, were likely exacerbated by rainforest shifts.
+        
+        In some places, rainfall in the <place>Amazon</place> also helps supply water to the very soy farmers and beef ranchers who are clearing the forest. Brazilian agriculture, it seems, actually needs the <place>Amazon.</place>
+        
+         "We need to have forest in order to have the rain necessary to plant crops," Esquivel-Muelbert says.
+        
+         Massive deforestation of the Amazon could change weather outside <place>South America</place> as well. Because water vapor heats the air as it condenses high in the sky to form liquid raindrops, a significant reduction in rain caused by deforestation would actually cool the atmosphere above the region. <problem probType="climateChange">That cooling perturbation would leave the southern hemisphere in atmospheric waves—generating untold ripple effects around the planet.</problem>
+        
+         According to one modeling study, for example, if the <place>Amazon</place> were ever completely deforested, the snowpack in the <place>Sierra Nevada</place> mountains—a crucial water reservoir for <place>California</place>—would be diminished by half.
+        
+         That’s without even considering the effect on CO2 and climate.
+        
+         Burning time
+            <solution solType="prevention">"The Amazon stores a tremendous amount of carbon,"</solution> Nobre says.
+        
+         <problem probType="climateChange">Instead of sucking CO2 from the sky, a deforested Amazon could instead begin releasing stored greenhouse gases.</problem> If 60 percent of the forest were to degrade to a savanna, Nobre says, that could unleash the equivalent of five or six years’ worth of global fossil-fuel emissions.
+        
+         Michael Mann, a climate scientist and director of the <place>Earth System Science Center</place> at <place>Pennsylvania State University,</place> called it "another aggravating climate feedback" loop, where drying rainforest leads to less absorption of CO2, which in turn promotes more climate change, drying more forest.
+        
+         "We depend quite a bit on the continued functioning of key carbon sinks," he says. "That’s just one of the many things that makes climate change a global problem."
+        
+         In fact, deforestation, fire, and climate change already work synergistically in the <place>Amazon.</place> In recent years, climate change has sparked droughts that let wildfires burn bigger and longer. <solution solType="prevention">Between 2003 and 2013, forest clearing dropped by 76 percent,</solution> <problem probType="climateChange">but the increase in wildfire, especially during the drought of 2015, erased half the increased absorption of CO2.</problem>
+        
+         That's why Lovejoy and Nobre conclude that—contrary to Bolsonaro's campaign promise—what the <place>Amazon</place> needs is not deforestation, but a massive campaign of tree planting.
+        
+         "It really makes sense to do some active reforestation to build that margin of safety," Lovejoy says. "It doesn't have to be the forest primeval, but you need something with trees and relatively complex communities."
+        
+         At the very least, says Esquivel-Muelbert, <place>Brazil</place> should avoid clearing more. Asked what message she would send to Brazil's president, she said: "Please, don't make things worse."
+        </p>
+    </body>
+</xml>
