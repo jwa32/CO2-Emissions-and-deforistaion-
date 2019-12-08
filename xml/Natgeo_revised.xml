@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../Github/CO2-Emissions-and-deforistaion-/xml/ecoSchema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<?xml-model href="ecoSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <header>
         <title>How Amazon forest loss may affect water—and climate—far away</title>

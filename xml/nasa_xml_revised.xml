@@ -1,5 +1,5 @@
 
-<?xml-model href="../Github/CO2-Emissions-and-deforistaion-/xml/ecoSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="ecoSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <header>
        <title> NASA's Ecosystem Spaceborne Thermal Radiometer Experiment on Space Station (ECOSTRESS)</title>
