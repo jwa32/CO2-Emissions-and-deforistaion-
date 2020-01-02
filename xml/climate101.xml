@@ -26,9 +26,11 @@ Agreement in 2015</policy>, according to one estimate.
 </p>
 
  
-    <sectionHead>Causes of deforestation</sectionHead>
 
-    <p><problem probType="deforest"><cause>Farming</cause>, <cause>grazing of livestock</cause>, <cause>mining</cause>, and <cause>drilling</cause> combined account for more than half of all deforestation. <cause>Forestry practices</cause>, <cause>wildfires</cause> and, in small part, <cause>urbanization</cause> account for the rest.</problem> <problem probType="deforest">In <place>Malaysia</place> and <place>Indonesia</place>, forests are cut down to make way for producing <product>palm oil</product>, which can be found in everything from <product>shampoo</product> to <product>saltines</product>.</problem>
+
+    <p>
+        <sectionHead>Causes of deforestation</sectionHead>
+        <problem probType="deforest"><cause>Farming</cause>, <cause>grazing of livestock</cause>, <cause>mining</cause>, and <cause>drilling</cause> combined account for more than half of all deforestation. <cause>Forestry practices</cause>, <cause>wildfires</cause> and, in small part, <cause>urbanization</cause> account for the rest.</problem> <problem probType="deforest">In <place>Malaysia</place> and <place>Indonesia</place>, forests are cut down to make way for producing <product>palm oil</product>, which can be found in everything from <product>shampoo</product> to <product>saltines</product>.</problem>
 <problem probType="deforest">In the <place>Amazon</place>, <cause>cattle ranching</cause> and <cause>farms—particularly soy plantations</cause>—are key culprits.
 <cause>Logging</cause> operations, which provide the world’s <product>wood</product> and <product>paper</product> products, also fell countless trees each year.
 <cause>Loggers, some of them acting illegally, also build roads to access more and more remote forests—which leads to</cause>
@@ -37,8 +39,10 @@ further deforestation.</problem> <problem probType="deforest">Forests are also c
 and <cause>overgrazing</cause>, which may prevent the growth of young trees.</problem></p>
 
  
+   
+<p>
     <sectionHead>Why it matters and what can be done</sectionHead>
-<p>Deforestation affects the people and animals where trees are cut, as well as the wider world. <problem probType="humanLifeSupport">Some <extent quantity="250" unit="million" what="people">250 million 
+    Deforestation affects the people and animals where trees are cut, as well as the wider world. <problem probType="humanLifeSupport">Some <extent quantity="250" unit="million" what="people">250 million 
 people</extent> living in forest and savannah areas depend on them for subsistence and income—many of them among the
 world’s rural poor.</problem> <problem probType="extinction">Eighty percent of Earth’s land animals and plants live in forests, and deforestation threatens 
 species including the <animal>orangutan</animal>, <animal>Sumatran tiger</animal>, and <animal>many species of birds</animal>. Removing trees deprives the forest

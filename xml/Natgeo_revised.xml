@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 346e8d5d5b0188a65b0f341332a882f3a972c9e5
 <?xml-model href="ecoSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <header>
@@ -17,8 +20,9 @@
     
     
     <body>
-         <sectionHead>Impacts on Wildlife and Indigenous communities</sectionHead>
+        
         <p>
+            <sectionHead>Impacts on Wildlife and Indigenous communities</sectionHead>
             When Jair Bolsonaro, a 63-year-old retired <place>Brazilian</place> military officer, took the helm in January of a country that manages 1.5 million square miles of the Amazon, the risks to <problem probType="fires">wildlife</problem> and indigenous tribal communities were hotly debated. With Bolsonaro's plans, <problem probType="deforest">deforestation</problem> rates in <place>Brazil</place> could quickly triple, according to an assessment by scientists. But the consequences of <policy polType="treaty">Bolsonaro's policies</policy> also are being felt far beyond areas hit by <problem probType="deforest">chainsaws.</problem> Even modest increases in <problem probType="deforest">deforestation</problem> <problem probType="desease">could affect water supplies in Brazilian cities</problem> and in neighboring countries while harming the very farms he is trying to expand. <problem probType="climateChange">More massive deforestation might alter water supplies as far away as Africa or California.
 </problem>        
          Most troubling of all:<problem probType="extinction"> Some scientists suggest the <place>Amazon</place> may already be nearing a tipping point.</problem> <problem probType="extinction">The region has been so degraded that even a small uptick in deforestation could send the forest hurtling toward a transition to something resembling a woodland savanna</problem>, according to an analysis last year by two top scientists. <problem probType="deforest">In addition to forever destroying huge sections of the world's largest rainforest</problem>, that shift would release tremendous quantities of planet-warming greenhouse gases, which could hasten the decline of whatever forest remained.

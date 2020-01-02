@@ -8,17 +8,27 @@
     version="3.0">
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
         omit-xml-declaration="yes"/>
-
+  
+   
     <xsl:variable name="EcoColl" select="collection('../xml/?select=*.xml')"/>
     <xsl:template match="/">
       <xsl:for-each select="$EcoColl//xml">  
           <xsl:result-document method="html" indent="yes" href="../HTML_CSS/Coll/{base-uri() ! tokenize(., '/')[last()] ! substring-before(., '.xml')}.html"><html>
+             
             <head>
+                <link rel="stylesheet" type="text/css" href="c02style.css"></link>
                 <title><xsl:value-of select="descendant::header/title"/></title>  
             </head>
            
         <body> 
-            
+            <div class="legend">
+                <ul> 
+                    <li> Problems: Purple</li>
+                    <li>  Extent: Brown</li>
+                    <li> Solution: Green</li> 
+                </ul>
+                
+            </div>
             <h1><xsl:value-of select="descendant::header/title"/></h1> 
             <h2> <xsl:value-of select="descendant::header/author"/> </h2> 
             <h3>  <xsl:value-of select="descendant::header/publication"/> </h3>
@@ -26,8 +36,8 @@
           
             <xsl:apply-templates select="descendant::body//p"/>
             
-  
-            
+ 
+       
         </body>
         </html>
           </xsl:result-document>
@@ -40,7 +50,7 @@
          
     </xsl:template>
     <xsl:template match="sectionHead">
-        <span class="sectionHead"><xsl:apply-templates/></span>
+        <span class="sectionHead"><xsl:apply-templates/><br></br></span>
     </xsl:template>
     <xsl:template match="problem">
         <span class="problem"><xsl:apply-templates/></span>  

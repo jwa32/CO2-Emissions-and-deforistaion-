@@ -29,6 +29,7 @@ e or about 15 percent in 2017.8
 <body>
 
     <p>
+        <sectionHead>Carbon pricing initiatives</sectionHead>
         This increase primarily due to the expected coverage
 of the <place>China</place> national ETS. While this trend brings
 the global coverage of GHG emissions closer to
@@ -66,8 +67,9 @@ Figure 7.
 
 
 
-    <sectionHead>Goverment policy on carbon pricing</sectionHead>
+   
     <p>
+        <sectionHead>Goverment policy on carbon pricing</sectionHead>
         <solution solType="politics">Governments raised approximately US$33 billion
 in carbon pricing revenues in 2017,</solution> the source of
 which was allowance auctions, direct payments

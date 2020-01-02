@@ -23,7 +23,8 @@
     
     <body> 
         
-  <p>   <sectionHead>Soy farming and deforestation</sectionHead>
+  <p>   
+      <sectionHead>Soy farming and deforestation</sectionHead>
       
         Climbing soy prices, the end to some of the voluntary agreements that helped
     slow <problem probType="deforest">deforestaion </problem> (such as the Soy Moratorium), and a shortage of <problem probType="carbonGas">cattle pasture</problem> suitable for
@@ -33,9 +34,10 @@
         
         
         
-        <sectionHead>changes made by global Institues</sectionHead>
+       
             
         <p>
+            <sectionHead>changes made by global Institues</sectionHead>
             Earth Innovation Institute, together with
     partner organizations, has been leading a multi-sector dialogue in Brazil to plug an important
     gap in the Amazon <problem probType="deforest">deforestation</problem> story, and prevent a reversal of the decline in <problem probType="deforest">deforestation</problem>

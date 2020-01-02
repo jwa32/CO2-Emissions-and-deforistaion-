@@ -14,8 +14,9 @@
     </abstract>
     
     <body>
-        <sectionHead> Intro</sectionHead>
+    
         <p> 
+            <sectionHead> Intro</sectionHead>
             Greta Thunberg led a protest at the <place>White House</place> on Friday. But she wasn't looking to go inside — "I don't want to meet with people who don't accept the science," she says.
             
             The young Swedish activist joined a large crowd of protesters who had gathered outside, <problem probType="climateChange">  calling for immediate action to help the environment and reverse an alarming warming trend in average global temperatures.</problem>
@@ -26,9 +27,9 @@
             
         </p>
         
-        
-        <sectionHead> The Interview </sectionHead>
-        <p> 
+ 
+        <p>        
+            <sectionHead> The Interview </sectionHead>
             She plans to spend nearly a week in<place> Washington, D.C.</place> — but she doesn't plan to meet with anyone from the <org>Trump administration</org> during that time. 
             "I haven't been invited to do that yet. And honestly I don't want to do that," Thunberg tells <org> NPR's</org> Ailsa Chang.  If people in the <place>White House </place>  who reject climate change want to change their minds, she says, they should rely on scientists and professionals to do that.
 

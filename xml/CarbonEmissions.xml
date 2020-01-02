@@ -18,8 +18,9 @@ metric tons of carbon dioxide.
     </abstract>   
     
    <body> 
-       <sectionHead> intro </sectionHead>
+      
        <p n="1"> 
+           <sectionHead> intro </sectionHead>
 Only a few years ago, it looked as if global emissions had plateaued and had perhaps even peaked, and many hoped that the world
 had started down the long, hard journey toward weaning itself off carbon-based energy. <problem probType="carbonGas">Over the past decade, renewable energy use 
 did indeed expand dramatically—but so did the burning of oil, gas, and even coal. That growth outstripped any carbon-neutralizing
@@ -34,8 +35,9 @@ To get where we need to go, "we need all hands on deck," Hayhoe says.
 Or, as one German researcher put it, we need "love, rage, and imagination."
        </p>
        
-       <sectionHead>Unmistakable signs </sectionHead>
+       
 <p n="2"> 
+    <sectionHead>Unmistakable signs </sectionHead>
 Just in the last few months, scientists have unveiled a slew of new reports that lay out how significantly climate change has altered
 the globe—and how much worse it can get.
 "We know what's coming down the pike,” says Kim Cobb, a climate scientist at <org>the Georgia Institute of Technology</org>, “because part of it isalready here.”
@@ -49,8 +51,9 @@ daily lives and economy probably won’t be enough: To keep climate change in ch
 we will also have to suck some of that carbon back out of the atmosphere.</solution>
 </p>
       
-       <sectionHead>The budget game </sectionHead>
+    
 <p n="3">
+    <sectionHead>The budget game </sectionHead>
 At heart, it's a simple budget exercise.
 <problem probType="carbonGas">
 Scientists know roughly how much each belch of CO2 from a truck, coal plant, or decomposing tree warms the planet. T
@@ -68,8 +71,9 @@ And if we barrel ahead at the rate we’re going now, we'd deplete that carbon b
 </problem> 
 </p>
        
-       <sectionHead>The love and rage solution </sectionHead>
+       
 <p>
+    <sectionHead>The love and rage solution </sectionHead>
     To avoid that fate, an October report by the <gov govLevel="international"> Intergovernmental Panel on Climate Change</gov> proposes that the world reduce carbon emissions to 
     zero by 2050. Many countries, states, and cities have adopted that goal. Just last week, the <gov govLevel="national">European Union</gov> <problem probType="country">—collectively responsible for 10 
         percent of global emissions—laid out its own plan for reaching that target. </problem>
