@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD
-
-=======
->>>>>>> 346e8d5d5b0188a65b0f341332a882f3a972c9e5
 <?xml-model href="ecoSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <header>

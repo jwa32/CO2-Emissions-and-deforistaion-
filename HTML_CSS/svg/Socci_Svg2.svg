@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500">
+<svg xmlns="http://www.w3.org/2000/svg" width="700%" height="700%">
     <desc></desc>
-    <g alignment-baseline="baseline" transform="translate(0,200)">
+    <g alignment-baseline="baseline" transform="translate(100,800)">
         <!--<svg xmlns:xs ="https://www.weforum.org/agenda/2019/07/forest-europe-environment/"/-->
         <desc>Deforestation by each country over the years in Thousands of hectares</desc>
         <g alignment-baseline="baseline">
@@ -11,13 +11,13 @@
             <!-- Y Axis -->
             <line x1="148.5" x2="1200" y1="100" y2="100" stroke="black" stroke-width="3"/>
             <!-- X Axis -->
-            <text x="110" y="50" fill="black" font-size="18px">500 ---</text>
-            <text x="105" y="5" fill="black" font-size="18px">1000 ---</text>
-            <text x="105" y="-50" fill="black" font-size="18px">1500 ---</text>
-            <text x="105" y="-90" fill="black" font-size="18px">2000 ---</text>
-            <text x="105" y="-130" fill="black" font-size="18px">2500 ---</text>
+            <text x="110" y="50" fill="black" font-size="20px">500 ---</text>
+            <text x="105" y="5" fill="black" font-size="20px">1000 ---</text>
+            <text x="105" y="-50" fill="black" font-size="20px">1500 ---</text>
+            <text x="105" y="-90" fill="black" font-size="20px">2000 ---</text>
+            <text x="105" y="-130" fill="black" font-size="20px">2500 ---</text>
             
-            <text x="105" y="-170" fill="black" font-size="18px">5000 ----</text>
+            <text x="105" y="-170" fill="black" font-size="20px">5000 ----</text>
             
             <!-- Measurements -->
             <rect x="200" y="-200.5" width="50" height="300" stroke="yellow" fill="red" stroke-width="2"/>
